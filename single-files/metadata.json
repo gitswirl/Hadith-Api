@@ -1,0 +1,745 @@
+{
+    "abudawud": {
+        "name": "Sunan Abu Dawud",
+        "totalHadith": 5274,
+        "collection": [{
+                "name": "ara1-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/arabic"
+            },
+            {
+                "name": "ara2-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/arabic-diacritical"
+            },
+            {
+                "name": "ben-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/bengali"
+            },
+            {
+                "name": "eng-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/english"
+            },
+            {
+                "name": "ind-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/indonesian"
+            },
+            {
+                "name": "rus-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "russian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "https://isnad.link/",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/russian"
+            },
+            {
+                "name": "tur-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/turkish"
+            },
+            {
+                "name": "urd-abudawud",
+                "book": "abudawud",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/abudawud/urdu"
+            }
+        ]
+    },
+    "bukhari": {
+        "name": "Sahih al Bukhari",
+        "totalHadith": 7563,
+        "collection": [{
+                "name": "ara1-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/arabic"
+            },
+            {
+                "name": "ara2-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/arabic-diacritical"
+            },
+            {
+                "name": "ben-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/bengali"
+            },
+            {
+                "name": "eng-bukhari",
+                "book": "bukhari",
+                "author": "Muhsin Khan",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/english"
+            },
+            {
+                "name": "ind-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/indonesian"
+            },
+            {
+                "name": "rus-bukhari",
+                "book": "bukhari",
+                "author": "Abdullah Nirsha And Editors Of Daura.com",
+                "language": "russian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "https://isnad.link/book/sahih-al-buhari",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/russian"
+            },
+            {
+                "name": "tam-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "tammil",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/tammil"
+            },
+            {
+                "name": "tur-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/turkish"
+            },
+            {
+                "name": "urd-bukhari",
+                "book": "bukhari",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/bukhari/urdu"
+            }
+        ]
+    },
+    "ibnmajah": {
+        "name": "Sunan Ibn Majah",
+        "totalHadith": 4341,
+        "collection": [{
+                "name": "ara1-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/arabic"
+            },
+            {
+                "name": "ara2-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/arabic-diacritical"
+            },
+            {
+                "name": "ben-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/bengali"
+            },
+            {
+                "name": "eng-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/english"
+            },
+            {
+                "name": "ind-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/indonesian"
+            },
+            {
+                "name": "tur-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/turkish"
+            },
+            {
+                "name": "urd-ibnmajah",
+                "book": "ibnmajah",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/ibnmajah/urdu"
+            }
+        ]
+    },
+    "muslim": {
+        "name": "Sahih Muslim",
+        "totalHadith": 7563,
+        "collection": [{
+                "name": "ara1-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/arabic"
+            },
+            {
+                "name": "ara2-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/arabic-diacritical"
+            },
+            {
+                "name": "ben-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/bengali"
+            },
+            {
+                "name": "eng-muslim",
+                "book": "muslim",
+                "author": "Abdul Hamid Siddiqui",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/english"
+            },
+            {
+                "name": "fra-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "french",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/french"
+            },
+            {
+                "name": "ind-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/indonesian"
+            },
+            {
+                "name": "rus-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "russian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "https://isnad.link/",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/russian"
+            },
+            {
+                "name": "tam-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "tammil",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/tammil"
+            },
+            {
+                "name": "tur-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/turkish"
+            },
+            {
+                "name": "urd-muslim",
+                "book": "muslim",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/muslim/urdu"
+            }
+        ]
+    },
+    "nasai": {
+        "name": "Sunan an Nasai",
+        "totalHadith": 5758,
+        "collection": [{
+                "name": "ara1-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/arabic"
+            },
+            {
+                "name": "ara2-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/arabic-diacritical"
+            },
+            {
+                "name": "ben-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/bengali"
+            },
+            {
+                "name": "eng-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/english"
+            },
+            {
+                "name": "ind-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/indonesian"
+            },
+            {
+                "name": "tur-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/turkish"
+            },
+            {
+                "name": "urd-nasai",
+                "book": "nasai",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nasai/urdu"
+            }
+        ]
+    },
+    "tirmidhi": {
+        "name": "Jami At Tirmidhi",
+        "totalHadith": 3956,
+        "collection": [{
+                "name": "ara1-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/arabic"
+            },
+            {
+                "name": "ara2-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/arabic-diacritical"
+            },
+            {
+                "name": "ben-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/bengali"
+            },
+            {
+                "name": "eng-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/english"
+            },
+            {
+                "name": "ind-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/indonesian"
+            },
+            {
+                "name": "tur-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/turkish"
+            },
+            {
+                "name": "urd-tirmidhi",
+                "book": "tirmidhi",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/tirmidhi/urdu"
+            }
+        ]
+    },
+    "nawawi": {
+        "name": "Forty Hadith of an-Nawawi",
+        "totalHadith": 42,
+        "collection": [{
+                "name": "ara1-nawawi",
+                "book": "nawawi",
+                "author": "Imam Nawawi",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nawawi/arabic-diacritical"
+            },
+            {
+                "name": "ben-nawawi",
+                "book": "nawawi",
+                "author": "Imam Nawawi",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nawawi/bengali"
+            },
+            {
+                "name": "eng-nawawi",
+                "book": "nawawi",
+                "author": "Imam Nawawi",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/nawawi/english"
+            }
+        ]
+    },
+    "qudsi": {
+        "name": "Forty Hadith Qudsi",
+        "totalHadith": 40,
+        "collection": [{
+                "name": "ara1-qudsi",
+                "book": "qudsi",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/qudsi/arabic-diacritical"
+            },
+            {
+                "name": "eng-qudsi",
+                "book": "qudsi",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/qudsi/english"
+            }
+        ]
+    },
+    "dehlawi": {
+        "name": "Forty Hadith of Shah Waliullah Dehlawi",
+        "totalHadith": 40,
+        "collection": [{
+                "name": "ara1-dehlawi",
+                "book": "dehlawi",
+                "author": "Shah Waliullah Dehlawi",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/dehlawi/arabic-diacritical"
+            },
+            {
+                "name": "eng-dehlawi",
+                "book": "dehlawi",
+                "author": "Shah Waliullah Dehlawi",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/dehlawi/english"
+            }
+        ]
+    },
+    "malik": {
+        "name": "Muwatta Malik",
+        "totalHadith": 1858,
+        "collection": [{
+                "name": "ara1-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "arabic",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/arabic"
+            },
+            {
+                "name": "ara2-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "arabic-diacritical",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "Diacritics removed for easier searching",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/arabic-diacritical"
+            },
+            {
+                "name": "ben-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "bengali",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/bengali"
+            },
+            {
+                "name": "eng-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "english",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/english"
+            },
+            {
+                "name": "fra-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "french",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/french"
+            },
+            {
+                "name": "ind-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "indonesian",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/indonesian"
+            },
+            {
+                "name": "tur-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "turkish",
+                "has_sections": true,
+                "direction": "ltr",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/turkish"
+            },
+            {
+                "name": "urd-malik",
+                "book": "malik",
+                "author": "Unknown",
+                "language": "urdu",
+                "has_sections": true,
+                "direction": "rtl",
+                "source": "",
+                "comments": "",
+                "link": "https://api-oneislam.vercel.app/api/hadith/malik/urdu"
+            }
+        ]
+    }
+}

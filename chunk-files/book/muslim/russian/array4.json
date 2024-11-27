@@ -1,0 +1,9971 @@
+[
+  {
+    "hadithnumber": 3001,
+    "arabicnumber": "1235",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 209
+    }
+  },
+  {
+    "hadithnumber": 3002,
+    "arabicnumber": "1236.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 210
+    }
+  },
+  {
+    "hadithnumber": 3003,
+    "arabicnumber": "1236.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 211
+    }
+  },
+  {
+    "hadithnumber": 3004,
+    "arabicnumber": "1237",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 212
+    }
+  },
+  {
+    "hadithnumber": 3005,
+    "arabicnumber": "1238.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 213
+    }
+  },
+  {
+    "hadithnumber": 3006,
+    "arabicnumber": "1238.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 214
+    }
+  },
+  {
+    "hadithnumber": 3007,
+    "arabicnumber": "1239.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 215
+    }
+  },
+  {
+    "hadithnumber": 3008,
+    "arabicnumber": "1239.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 216
+    }
+  },
+  {
+    "hadithnumber": 3009,
+    "arabicnumber": "1240.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 217
+    }
+  },
+  {
+    "hadithnumber": 3010,
+    "arabicnumber": "1240.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 218
+    }
+  },
+  {
+    "hadithnumber": 3011,
+    "arabicnumber": "1240.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 219
+    }
+  },
+  {
+    "hadithnumber": 3012,
+    "arabicnumber": "1240.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 220
+    }
+  },
+  {
+    "hadithnumber": 3013,
+    "arabicnumber": "1240.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 221
+    }
+  },
+  {
+    "hadithnumber": 3014,
+    "arabicnumber": "1241",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 222
+    }
+  },
+  {
+    "hadithnumber": 3015,
+    "arabicnumber": "1242",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 223
+    }
+  },
+  {
+    "hadithnumber": 3016,
+    "arabicnumber": "1243.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 224
+    }
+  },
+  {
+    "hadithnumber": 3017,
+    "arabicnumber": "1243.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 225
+    }
+  },
+  {
+    "hadithnumber": 3018,
+    "arabicnumber": "1244.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 226
+    }
+  },
+  {
+    "hadithnumber": 3019,
+    "arabicnumber": "1244.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 227
+    }
+  },
+  {
+    "hadithnumber": 3020,
+    "arabicnumber": "1245",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 228
+    }
+  },
+  {
+    "hadithnumber": 3021,
+    "arabicnumber": "1246.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 229
+    }
+  },
+  {
+    "hadithnumber": 3022,
+    "arabicnumber": "1246.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 230
+    }
+  },
+  {
+    "hadithnumber": 3023,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3024,
+    "arabicnumber": "1248",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 232
+    }
+  },
+  {
+    "hadithnumber": 3025,
+    "arabicnumber": "1249",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 233
+    }
+  },
+  {
+    "hadithnumber": 3026,
+    "arabicnumber": "1250.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 234
+    }
+  },
+  {
+    "hadithnumber": 3027,
+    "arabicnumber": "1250.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 235
+    }
+  },
+  {
+    "hadithnumber": 3028,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3029,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3030,
+    "arabicnumber": "1252.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 237
+    }
+  },
+  {
+    "hadithnumber": 3031,
+    "arabicnumber": "1252.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 238
+    }
+  },
+  {
+    "hadithnumber": 3032,
+    "arabicnumber": "1252.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 239
+    }
+  },
+  {
+    "hadithnumber": 3033,
+    "arabicnumber": "1253.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 240
+    }
+  },
+  {
+    "hadithnumber": 3034,
+    "arabicnumber": "1253.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 241
+    }
+  },
+  {
+    "hadithnumber": 3035,
+    "arabicnumber": "1254",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 242
+    }
+  },
+  {
+    "hadithnumber": 3036,
+    "arabicnumber": "1255.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 243
+    }
+  },
+  {
+    "hadithnumber": 3037,
+    "arabicnumber": "1255.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 244
+    }
+  },
+  {
+    "hadithnumber": 3038,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3039,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3040,
+    "arabicnumber": "1257.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 246
+    }
+  },
+  {
+    "hadithnumber": 3041,
+    "arabicnumber": "1257.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 247
+    }
+  },
+  {
+    "hadithnumber": 3042,
+    "arabicnumber": "1258.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 248
+    }
+  },
+  {
+    "hadithnumber": 3043,
+    "arabicnumber": "1258.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 249
+    }
+  },
+  {
+    "hadithnumber": 3044,
+    "arabicnumber": "1259.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 250
+    }
+  },
+  {
+    "hadithnumber": 3045,
+    "arabicnumber": "1259.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 251
+    }
+  },
+  {
+    "hadithnumber": 3046,
+    "arabicnumber": "1259.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 252
+    }
+  },
+  {
+    "hadithnumber": 3047,
+    "arabicnumber": "1260",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 253
+    }
+  },
+  {
+    "hadithnumber": 3048,
+    "arabicnumber": "1261.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 254
+    }
+  },
+  {
+    "hadithnumber": 3049,
+    "arabicnumber": "1261.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 255
+    }
+  },
+  {
+    "hadithnumber": 3050,
+    "arabicnumber": "1261.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 256
+    }
+  },
+  {
+    "hadithnumber": 3051,
+    "arabicnumber": "1262.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 257
+    }
+  },
+  {
+    "hadithnumber": 3052,
+    "arabicnumber": "1262.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 258
+    }
+  },
+  {
+    "hadithnumber": 3053,
+    "arabicnumber": "1263.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 259
+    }
+  },
+  {
+    "hadithnumber": 3054,
+    "arabicnumber": "1263.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 260
+    }
+  },
+  {
+    "hadithnumber": 3055,
+    "arabicnumber": "1264.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 261
+    }
+  },
+  {
+    "hadithnumber": 3056,
+    "arabicnumber": "1264.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 262
+    }
+  },
+  {
+    "hadithnumber": 3057,
+    "arabicnumber": "1264.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 263
+    }
+  },
+  {
+    "hadithnumber": 3058,
+    "arabicnumber": "1265",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 264
+    }
+  },
+  {
+    "hadithnumber": 3059,
+    "arabicnumber": "1266.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 265
+    }
+  },
+  {
+    "hadithnumber": 3060,
+    "arabicnumber": "1266.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 266
+    }
+  },
+  {
+    "hadithnumber": 3061,
+    "arabicnumber": "1267.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 267
+    }
+  },
+  {
+    "hadithnumber": 3062,
+    "arabicnumber": "1267.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 268
+    }
+  },
+  {
+    "hadithnumber": 3063,
+    "arabicnumber": "1267.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 269
+    }
+  },
+  {
+    "hadithnumber": 3064,
+    "arabicnumber": "1268.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 270
+    }
+  },
+  {
+    "hadithnumber": 3065,
+    "arabicnumber": "1268.02",
+    "text": "‘Убайдуллах передал, что Нафи‘ сказал: «Я видел, как Ибн ‘Умар прикоснулся к Чёрному камню рукой, поцеловал свою руку и сказал: “Я не перестаю делать это с тех пор, как увидел, что Посланник Аллаха ﷺ поступает так”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 271
+    }
+  },
+  {
+    "hadithnumber": 3066,
+    "arabicnumber": "1269",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 272
+    }
+  },
+  {
+    "hadithnumber": 3067,
+    "arabicnumber": "1270.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 273
+    }
+  },
+  {
+    "hadithnumber": 3068,
+    "arabicnumber": "1270.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 274
+    }
+  },
+  {
+    "hadithnumber": 3069,
+    "arabicnumber": "1270.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 275
+    }
+  },
+  {
+    "hadithnumber": 3070,
+    "arabicnumber": "1270.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 276
+    }
+  },
+  {
+    "hadithnumber": 3071,
+    "arabicnumber": "1271.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 277
+    }
+  },
+  {
+    "hadithnumber": 3072,
+    "arabicnumber": "1271.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 278
+    }
+  },
+  {
+    "hadithnumber": 3073,
+    "arabicnumber": "1272",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 279
+    }
+  },
+  {
+    "hadithnumber": 3074,
+    "arabicnumber": "1273.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 280
+    }
+  },
+  {
+    "hadithnumber": 3075,
+    "arabicnumber": "1273.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 281
+    }
+  },
+  {
+    "hadithnumber": 3076,
+    "arabicnumber": "1274",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 282
+    }
+  },
+  {
+    "hadithnumber": 3077,
+    "arabicnumber": "1275",
+    "text": "Передают, что Абу Туфайль, да будет доволен им Аллах, сказал: «Я видел, как совершая обход вокруг Каабы Посланник Аллаха ﷺ прикоснулся своим посохом к углу (куда встроен Черный камень) и поцеловал посох»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 283
+    }
+  },
+  {
+    "hadithnumber": 3078,
+    "arabicnumber": "1276",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 284
+    }
+  },
+  {
+    "hadithnumber": 3079,
+    "arabicnumber": "1277.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 285
+    }
+  },
+  {
+    "hadithnumber": 3080,
+    "arabicnumber": "1277.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 286
+    }
+  },
+  {
+    "hadithnumber": 3081,
+    "arabicnumber": "1277.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 287
+    }
+  },
+  {
+    "hadithnumber": 3082,
+    "arabicnumber": "1277.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 288
+    }
+  },
+  {
+    "hadithnumber": 3083,
+    "arabicnumber": "1277.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 289
+    }
+  },
+  {
+    "hadithnumber": 3084,
+    "arabicnumber": "1278",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 290
+    }
+  },
+  {
+    "hadithnumber": 3085,
+    "arabicnumber": "1279.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 291
+    }
+  },
+  {
+    "hadithnumber": 3086,
+    "arabicnumber": "1279.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 292
+    }
+  },
+  {
+    "hadithnumber": 3087,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3088,
+    "arabicnumber": "1281.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 294
+    }
+  },
+  {
+    "hadithnumber": 3089,
+    "arabicnumber": "1282.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 295
+    }
+  },
+  {
+    "hadithnumber": 3090,
+    "arabicnumber": "1282.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 296
+    }
+  },
+  {
+    "hadithnumber": 3091,
+    "arabicnumber": "1283.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 297
+    }
+  },
+  {
+    "hadithnumber": 3092,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3093,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3094,
+    "arabicnumber": "1283.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 299
+    }
+  },
+  {
+    "hadithnumber": 3095,
+    "arabicnumber": "1284.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 300
+    }
+  },
+  {
+    "hadithnumber": 3096,
+    "arabicnumber": "1284.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 301
+    }
+  },
+  {
+    "hadithnumber": 3097,
+    "arabicnumber": "1285.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 302
+    }
+  },
+  {
+    "hadithnumber": 3098,
+    "arabicnumber": "1285.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 303
+    }
+  },
+  {
+    "hadithnumber": 3099,
+    "arabicnumber": "1280.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 304
+    }
+  },
+  {
+    "hadithnumber": 3100,
+    "arabicnumber": "1280.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 305
+    }
+  },
+  {
+    "hadithnumber": 3101,
+    "arabicnumber": "1280.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 306
+    }
+  },
+  {
+    "hadithnumber": 3102,
+    "arabicnumber": "1280.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 307
+    }
+  },
+  {
+    "hadithnumber": 3103,
+    "arabicnumber": "1280.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 308
+    }
+  },
+  {
+    "hadithnumber": 3104,
+    "arabicnumber": "1280.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 309
+    }
+  },
+  {
+    "hadithnumber": 3105,
+    "arabicnumber": "1286.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 310
+    }
+  },
+  {
+    "hadithnumber": 3106,
+    "arabicnumber": "1286.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 311
+    }
+  },
+  {
+    "hadithnumber": 3107,
+    "arabicnumber": "1286.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 312
+    }
+  },
+  {
+    "hadithnumber": 3108,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3109,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3110,
+    "arabicnumber": "703.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 314
+    }
+  },
+  {
+    "hadithnumber": 3111,
+    "arabicnumber": "1288.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 315
+    }
+  },
+  {
+    "hadithnumber": 3112,
+    "arabicnumber": "1288.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 316
+    }
+  },
+  {
+    "hadithnumber": 3113,
+    "arabicnumber": "1288.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 317
+    }
+  },
+  {
+    "hadithnumber": 3114,
+    "arabicnumber": "1288.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 318
+    }
+  },
+  {
+    "hadithnumber": 3115,
+    "arabicnumber": "1288.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 319
+    }
+  },
+  {
+    "hadithnumber": 3116,
+    "arabicnumber": "1289.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 320
+    }
+  },
+  {
+    "hadithnumber": 3117,
+    "arabicnumber": "1289.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 321
+    }
+  },
+  {
+    "hadithnumber": 3118,
+    "arabicnumber": "1290.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 322
+    }
+  },
+  {
+    "hadithnumber": 3119,
+    "arabicnumber": "1290.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 323
+    }
+  },
+  {
+    "hadithnumber": 3120,
+    "arabicnumber": "1290.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 324
+    }
+  },
+  {
+    "hadithnumber": 3121,
+    "arabicnumber": "1290.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 325
+    }
+  },
+  {
+    "hadithnumber": 3122,
+    "arabicnumber": "1291.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 326
+    }
+  },
+  {
+    "hadithnumber": 3123,
+    "arabicnumber": "1291.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 327
+    }
+  },
+  {
+    "hadithnumber": 3124,
+    "arabicnumber": "1292.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 328
+    }
+  },
+  {
+    "hadithnumber": 3125,
+    "arabicnumber": "1292.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 329
+    }
+  },
+  {
+    "hadithnumber": 3126,
+    "arabicnumber": "1293.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 330
+    }
+  },
+  {
+    "hadithnumber": 3127,
+    "arabicnumber": "1293.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 331
+    }
+  },
+  {
+    "hadithnumber": 3128,
+    "arabicnumber": "1293.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 332
+    }
+  },
+  {
+    "hadithnumber": 3129,
+    "arabicnumber": "1294",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 333
+    }
+  },
+  {
+    "hadithnumber": 3130,
+    "arabicnumber": "1295",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 334
+    }
+  },
+  {
+    "hadithnumber": 3131,
+    "arabicnumber": "1296.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 335
+    }
+  },
+  {
+    "hadithnumber": 3132,
+    "arabicnumber": "1296.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 336
+    }
+  },
+  {
+    "hadithnumber": 3133,
+    "arabicnumber": "1296.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 337
+    }
+  },
+  {
+    "hadithnumber": 3134,
+    "arabicnumber": "1296.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 338
+    }
+  },
+  {
+    "hadithnumber": 3135,
+    "arabicnumber": "1296.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 339
+    }
+  },
+  {
+    "hadithnumber": 3136,
+    "arabicnumber": "1296.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 340
+    }
+  },
+  {
+    "hadithnumber": 3137,
+    "arabicnumber": "1297",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 341
+    }
+  },
+  {
+    "hadithnumber": 3138,
+    "arabicnumber": "1298.01",
+    "text": "Умм аль-Хусайн рассказывала: «...Посланник Аллаха ﷺ много говорил, и я слышала, как он сказал: “Если поставят над вами правителем черного раба с оторванными частями тела, который будет править вами согласно установлениям Книги Аллаха Всевышнего, слушайте его и повинуйтесь ему”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 342
+    }
+  },
+  {
+    "hadithnumber": 3139,
+    "arabicnumber": "1298.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 343
+    }
+  },
+  {
+    "hadithnumber": 3140,
+    "arabicnumber": "1299.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 344
+    }
+  },
+  {
+    "hadithnumber": 3141,
+    "arabicnumber": "1299.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 345
+    }
+  },
+  {
+    "hadithnumber": 3142,
+    "arabicnumber": "1299.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 346
+    }
+  },
+  {
+    "hadithnumber": 3143,
+    "arabicnumber": "1300",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 347
+    }
+  },
+  {
+    "hadithnumber": 3144,
+    "arabicnumber": "1301.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 348
+    }
+  },
+  {
+    "hadithnumber": 3145,
+    "arabicnumber": "1301.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 349
+    }
+  },
+  {
+    "hadithnumber": 3146,
+    "arabicnumber": "1301.03",
+    "text": "Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, о том, что (после завершения обрядов хаджжа) Посланник Аллаха ﷺ сказал: «О Аллах, помилуй сбривших волосы». (Люди) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» Он (снова) сказал: «О Аллах, помилуй сбривших волосы». (Люди) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» Он (снова) сказал: «О Аллах, помилуй сбривших волосы». (Люди снова) сказали: «(Обратись с мольбой) и за укоротивших, о Посланник Аллаха!» − (и тогда) он сказал: “И укоротивших”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 350
+    }
+  },
+  {
+    "hadithnumber": 3147,
+    "arabicnumber": "1301.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 351
+    }
+  },
+  {
+    "hadithnumber": 3148,
+    "arabicnumber": "1302.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 352
+    }
+  },
+  {
+    "hadithnumber": 3149,
+    "arabicnumber": "1302.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 353
+    }
+  },
+  {
+    "hadithnumber": 3150,
+    "arabicnumber": "1303",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 354
+    }
+  },
+  {
+    "hadithnumber": 3151,
+    "arabicnumber": "1304",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 355
+    }
+  },
+  {
+    "hadithnumber": 3152,
+    "arabicnumber": "1305.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 356
+    }
+  },
+  {
+    "hadithnumber": 3153,
+    "arabicnumber": "1305.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 357
+    }
+  },
+  {
+    "hadithnumber": 3154,
+    "arabicnumber": "1305.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 358
+    }
+  },
+  {
+    "hadithnumber": 3155,
+    "arabicnumber": "1305.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 359
+    }
+  },
+  {
+    "hadithnumber": 3156,
+    "arabicnumber": "1306.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 360
+    }
+  },
+  {
+    "hadithnumber": 3157,
+    "arabicnumber": "1306.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 361
+    }
+  },
+  {
+    "hadithnumber": 3158,
+    "arabicnumber": "1306.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 362
+    }
+  },
+  {
+    "hadithnumber": 3159,
+    "arabicnumber": "1306.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 363
+    }
+  },
+  {
+    "hadithnumber": 3160,
+    "arabicnumber": "1306.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 364
+    }
+  },
+  {
+    "hadithnumber": 3161,
+    "arabicnumber": "1306.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 365
+    }
+  },
+  {
+    "hadithnumber": 3162,
+    "arabicnumber": "1306.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 366
+    }
+  },
+  {
+    "hadithnumber": 3163,
+    "arabicnumber": "1306.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 367
+    }
+  },
+  {
+    "hadithnumber": 3164,
+    "arabicnumber": "1307",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 368
+    }
+  },
+  {
+    "hadithnumber": 3165,
+    "arabicnumber": "1308",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 369
+    }
+  },
+  {
+    "hadithnumber": 3166,
+    "arabicnumber": "1309",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 370
+    }
+  },
+  {
+    "hadithnumber": 3167,
+    "arabicnumber": "1310.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 371
+    }
+  },
+  {
+    "hadithnumber": 3168,
+    "arabicnumber": "1310.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 372
+    }
+  },
+  {
+    "hadithnumber": 3169,
+    "arabicnumber": "1311.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 373
+    }
+  },
+  {
+    "hadithnumber": 3170,
+    "arabicnumber": "1311.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 374
+    }
+  },
+  {
+    "hadithnumber": 3171,
+    "arabicnumber": "1311.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 375
+    }
+  },
+  {
+    "hadithnumber": 3172,
+    "arabicnumber": "1312",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 376
+    }
+  },
+  {
+    "hadithnumber": 3173,
+    "arabicnumber": "1313",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 377
+    }
+  },
+  {
+    "hadithnumber": 3174,
+    "arabicnumber": "1314.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 378
+    }
+  },
+  {
+    "hadithnumber": 3175,
+    "arabicnumber": "1314.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 379
+    }
+  },
+  {
+    "hadithnumber": 3176,
+    "arabicnumber": "1314.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 380
+    }
+  },
+  {
+    "hadithnumber": 3177,
+    "arabicnumber": "1315.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 381
+    }
+  },
+  {
+    "hadithnumber": 3178,
+    "arabicnumber": "1315.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 382
+    }
+  },
+  {
+    "hadithnumber": 3179,
+    "arabicnumber": "1316",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 383
+    }
+  },
+  {
+    "hadithnumber": 3180,
+    "arabicnumber": "1317.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 384
+    }
+  },
+  {
+    "hadithnumber": 3181,
+    "arabicnumber": "1317.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 385
+    }
+  },
+  {
+    "hadithnumber": 3182,
+    "arabicnumber": "1317.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 386
+    }
+  },
+  {
+    "hadithnumber": 3183,
+    "arabicnumber": "1317.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 387
+    }
+  },
+  {
+    "hadithnumber": 3184,
+    "arabicnumber": "1317.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 388
+    }
+  },
+  {
+    "hadithnumber": 3185,
+    "arabicnumber": "1318.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 389
+    }
+  },
+  {
+    "hadithnumber": 3186,
+    "arabicnumber": "1318.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 390
+    }
+  },
+  {
+    "hadithnumber": 3187,
+    "arabicnumber": "1318.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 391
+    }
+  },
+  {
+    "hadithnumber": 3188,
+    "arabicnumber": "1318.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 392
+    }
+  },
+  {
+    "hadithnumber": 3189,
+    "arabicnumber": "1318.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 393
+    }
+  },
+  {
+    "hadithnumber": 3190,
+    "arabicnumber": "1318.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 394
+    }
+  },
+  {
+    "hadithnumber": 3191,
+    "arabicnumber": "1319.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 395
+    }
+  },
+  {
+    "hadithnumber": 3192,
+    "arabicnumber": "1319.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 396
+    }
+  },
+  {
+    "hadithnumber": 3193,
+    "arabicnumber": "1320",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 397
+    }
+  },
+  {
+    "hadithnumber": 3194,
+    "arabicnumber": "1321.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 398
+    }
+  },
+  {
+    "hadithnumber": 3195,
+    "arabicnumber": "1321.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 399
+    }
+  },
+  {
+    "hadithnumber": 3196,
+    "arabicnumber": "1321.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 400
+    }
+  },
+  {
+    "hadithnumber": 3197,
+    "arabicnumber": "1321.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 401
+    }
+  },
+  {
+    "hadithnumber": 3198,
+    "arabicnumber": "1321.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 402
+    }
+  },
+  {
+    "hadithnumber": 3199,
+    "arabicnumber": "1321.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 403
+    }
+  },
+  {
+    "hadithnumber": 3200,
+    "arabicnumber": "1321.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 404
+    }
+  },
+  {
+    "hadithnumber": 3201,
+    "arabicnumber": "1321.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 405
+    }
+  },
+  {
+    "hadithnumber": 3202,
+    "arabicnumber": "1321.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 406
+    }
+  },
+  {
+    "hadithnumber": 3203,
+    "arabicnumber": "1321.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 407
+    }
+  },
+  {
+    "hadithnumber": 3204,
+    "arabicnumber": "1321.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 408
+    }
+  },
+  {
+    "hadithnumber": 3205,
+    "arabicnumber": "1321.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 409
+    }
+  },
+  {
+    "hadithnumber": 3206,
+    "arabicnumber": "1321.13",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 410
+    }
+  },
+  {
+    "hadithnumber": 3207,
+    "arabicnumber": "1321.14",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 411
+    }
+  },
+  {
+    "hadithnumber": 3208,
+    "arabicnumber": "1322.01",
+    "text": "Передают со слов Абу Хурайры о том, что, увидев какого-то человека, который гнал свою жертвенную верблюдицу, Посланник Аллаха ﷺ велел ему: «Сядь на неё верхом». Тот сказал: «О Посланник Аллаха, это ведь жертвенная верблюдица!» и тогда на второй (или: на третий) раз (Пророк ﷺ) воскликнул: «Садись же, горе тебе!»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 412
+    }
+  },
+  {
+    "hadithnumber": 3209,
+    "arabicnumber": "1322.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 413
+    }
+  },
+  {
+    "hadithnumber": 3210,
+    "arabicnumber": "1322.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 414
+    }
+  },
+  {
+    "hadithnumber": 3211,
+    "arabicnumber": "1323.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 415
+    }
+  },
+  {
+    "hadithnumber": 3212,
+    "arabicnumber": "1323.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 416
+    }
+  },
+  {
+    "hadithnumber": 3213,
+    "arabicnumber": "1323.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 417
+    }
+  },
+  {
+    "hadithnumber": 3214,
+    "arabicnumber": "1324.01",
+    "text": "Сообщается, что Абу аз-Зубайр сказал: Я слышал, как Джабира ибн ‘Абдуллаха, да будет доволен Аллах ими обоими, спросили, (можно ли) ездить верхом на жертвенных животных, и он сказал: «Я слышал, как Пророк ﷺ говорил: “Если ты будешь вынужден (использовать их для этого, можешь) ездить на них верхом, пока не найдёшь какое-нибудь (другое) верховое животное”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 418
+    }
+  },
+  {
+    "hadithnumber": 3215,
+    "arabicnumber": "1324.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 419
+    }
+  },
+  {
+    "hadithnumber": 3216,
+    "arabicnumber": "1325.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 420
+    }
+  },
+  {
+    "hadithnumber": 3217,
+    "arabicnumber": "1325.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 421
+    }
+  },
+  {
+    "hadithnumber": 3218,
+    "arabicnumber": "1326",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 422
+    }
+  },
+  {
+    "hadithnumber": 3219,
+    "arabicnumber": "1327",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 423
+    }
+  },
+  {
+    "hadithnumber": 3220,
+    "arabicnumber": "1328.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 424
+    }
+  },
+  {
+    "hadithnumber": 3221,
+    "arabicnumber": "1328.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 425
+    }
+  },
+  {
+    "hadithnumber": 3222,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3223,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3224,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3225,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3226,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3227,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3228,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3229,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3230,
+    "arabicnumber": "1329.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 434
+    }
+  },
+  {
+    "hadithnumber": 3231,
+    "arabicnumber": "1329.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 435
+    }
+  },
+  {
+    "hadithnumber": 3232,
+    "arabicnumber": "1329.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 436
+    }
+  },
+  {
+    "hadithnumber": 3233,
+    "arabicnumber": "1329.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 437
+    }
+  },
+  {
+    "hadithnumber": 3234,
+    "arabicnumber": "1329.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 438
+    }
+  },
+  {
+    "hadithnumber": 3235,
+    "arabicnumber": "1329.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 439
+    }
+  },
+  {
+    "hadithnumber": 3236,
+    "arabicnumber": "1329.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 440
+    }
+  },
+  {
+    "hadithnumber": 3237,
+    "arabicnumber": "1330",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 441
+    }
+  },
+  {
+    "hadithnumber": 3238,
+    "arabicnumber": "1331",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 442
+    }
+  },
+  {
+    "hadithnumber": 3239,
+    "arabicnumber": "1332",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 443
+    }
+  },
+  {
+    "hadithnumber": 3240,
+    "arabicnumber": "1333.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 444
+    }
+  },
+  {
+    "hadithnumber": 3241,
+    "arabicnumber": "1333.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 445
+    }
+  },
+  {
+    "hadithnumber": 3242,
+    "arabicnumber": "1333.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 446
+    }
+  },
+  {
+    "hadithnumber": 3243,
+    "arabicnumber": "1333.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 447
+    }
+  },
+  {
+    "hadithnumber": 3244,
+    "arabicnumber": "1333.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 448
+    }
+  },
+  {
+    "hadithnumber": 3245,
+    "arabicnumber": "1333.06",
+    "text": "Сообщается, что ‘Атаъ сказал: Когда при Язиде ибн Му‘авие (Кааба) сгорела во время её (осады войском) из Шама, и с ней случилось то, что случилось, Ибн аз-Зубайр оставил её (в таком виде), пока в сезон (хаджжа в Мекку) не стали при­езжать люди, которых он хотел воодушевить (или: гнев которых он хотел распалить) (и направить) против (воинов) из Шама. Когда же люди стали покидать (Мекку), он обратился (к ним): «О люди, дайте мне совет отно­сительно Каабы. (Следует) ли мне разрушить её и отстроить заново или (лучше) привести в порядок то, что от неё (осталось)?» Ибн ‘Аббас ска­зал: «Мне ясно, (какое) мнение о ней (является верным). Я считаю, что ты (должен) привести её в порядок, (сохранить) то, что от неё (осталось), и оставить Дом, при котором люди принимали ислам, и камни, при кото­рых люди принимали ислам, а на Пророка ﷺ была возложена пророчес­кая миссия». Ибн аз-Зубайр сказал: «Если бы у кого-нибудь из вас сгорел дом, он не был бы доволен, пока не обновил бы его, так что же сказать о Доме вашего Господа? Поистине, я три (дня) буду просить моего Гос­пода помочь сделать мне правильный выбор, а потом приму (окончатель­ное) решение по этому делу». Когда эти три (дня) истекли, он решил раз­рушить (Каабу), люди же стали избегать его, (опасаясь), что первого, кто на неё поднимется, (поразит) небесная (кара). (Однако через некоторое время наверх) поднялся какой-то человек и стал сбрасывать оттуда камни. Увидев, что с ним ничего не (случилось, туда) один за другим (стали под­ходить) люди. Они принялись разбирать (кладку и не останавливались), пока не достигли (уровня) земли. Потом Ибн аз-Зубайр установил там столбы и повесил на них завесы, (которые не убирали), пока не были подняты (стены) здания. Тогда Ибн аз-Зубайр сказал: «Поистине, я слы­шал, как ‘Аиша сказала, что Пророк ﷺ сказал: “Если бы не (то обстоятель­ство, что) люди (совсем) недавно (избавились от) неверия, и не отсутст­вие средств на строительство, я бы обязательно присоединил к ней пять локтей от аль-Хиджра и устроил в ней дверь, через которую люди вхо­дили бы в (Каабу, а также) другую дверь, через которую они выходили бы оттуда”. У меня же сегодня есть что потратить, и я не боюсь людей». И он присоединил к ней пять локтей от аль-Хиджра, (в результате чего) открылся фундамент, и люди смотрели на него, а потом возвёл на нём (новое) здание. (Прежде) длина Каабы равнялась восемнадцати локтям, но (Ибн аз-Зубайр) счёл, (что этого недостаточно), и сделал его на десять локтей длиннее. (Кроме того), он устроил в ней две двери, через одну из которых (в Каабу следовало) входить, а через другую выходить. Когда же Ибн аз-Зубайра убили, аль-Хаджжадж написал ‘Абдуль-Малику ибн Марвану письмо, в котором сообщил обо (всём, в том числе и) о том, что Ибн аз-Зубайр возвёл (новое) здание на фундаменте (Каабы), кото­рый видели благочестивые (свидетели) из числа жителей Мекки. ‘Абдуль-Малик написал ему (в ответ): «Мы не имеем отношения ни к чему (из того, что натворил) Ибн аз-Зубайр. Оставь то, что он удлинил, а то, что он при­соединил (к Каабе) из аль-Хиджра, верни (в прежнее состояние) и заде­лай дверь, которую он (устроил)», после чего (аль-Хаджжадж) разрушил (то, что построил Ибн аз-Зубайр), и вернул зданию (прежний вид)",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 449
+    }
+  },
+  {
+    "hadithnumber": 3246,
+    "arabicnumber": "1333.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 450
+    }
+  },
+  {
+    "hadithnumber": 3247,
+    "arabicnumber": "1333.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 451
+    }
+  },
+  {
+    "hadithnumber": 3248,
+    "arabicnumber": "1333.09",
+    "text": "Передают со слов Каза‘а, что во время обхода Дома (Каабы) ‘Абдуль-Малик ибн Марван воскликнул: Да разразит Аллах Ибн аз-Зубайра, который возводит ложь на мать правоверных! Он говорит: «Я слышал, как она говорит, что Посланник Аллаха ﷺ сказал: “О ‘Аиша, если бы не (то обстоятельство, что) твои соплеменники (совсем) недавно (избавились от) неверия, я бы непременно разрушил этот Дом (Каабу) и присоединил к ней (часть) аль-Хиджра, ибо твои соплеменники сделали здание слишком коротким”».(Каза‘а сказал): «(Услышав это), аль-Харис ибн ‘Абдуллах ибн Абу Раби‘а сказал: “Не говори так, о повелитель правоверных, ибо я слышал, как мать правоверных рассказывала об этом” (На это ‘Абдуль-Малик) сказал: “Если бы я услышал (твои слова), прежде чем разрушить (Каабу), то непре­менно оставил бы её (в том виде, какой придал ей) Ибн аз-Зубайр!”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 452
+    }
+  },
+  {
+    "hadithnumber": 3249,
+    "arabicnumber": "1333.10",
+    "text": "‘Аиша, да будет доволен ею Аллах, сказала: «Однажды я спросила Пророка ﷺ: “Является ли стена частью Каабы?” Он сказал: “Да”. Я спросила: “Так почему же они не присоединили её к Каабе?” Он ответил: “Потому что твои соплеменники испытывали недостаток в средствах”. Я спросила: “А почему дверь её поднята (над землёй)?” Он ответил: “Твои соплеменники сделали так, чтобы пускать внутрь, кого пожелают, и не давать (входить в Каабу тому), кому не пожелают. Если бы твои соплеменники не были (столь) близки к джахилиййи и я не опасался бы, что сердцам их не понравится (подобное), я бы присоединил эту стену к Каабе, а дверь опустил до (уровня) земли”»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 453
+    }
+  },
+  {
+    "hadithnumber": 3250,
+    "arabicnumber": "1333.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 454
+    }
+  },
+  {
+    "hadithnumber": 3251,
+    "arabicnumber": "1334",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 455
+    }
+  },
+  {
+    "hadithnumber": 3252,
+    "arabicnumber": "1335",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 456
+    }
+  },
+  {
+    "hadithnumber": 3253,
+    "arabicnumber": "1336.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 457
+    }
+  },
+  {
+    "hadithnumber": 3254,
+    "arabicnumber": "1336.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 458
+    }
+  },
+  {
+    "hadithnumber": 3255,
+    "arabicnumber": "1336.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 459
+    }
+  },
+  {
+    "hadithnumber": 3256,
+    "arabicnumber": "1336.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 460
+    }
+  },
+  {
+    "hadithnumber": 3257,
+    "arabicnumber": "1337",
+    "text": "Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: (Однажды) Посланник Аллаха ﷺ обратился к нам с проповедью (, в которой среди прочего) сказал: «О люди, Аллах вменил вам в обязанность хадж, так совершайте же его!» Один человек спросил: «Каждый год, о Посланник Аллаха?», однако он хранил молчание, пока тот не (повторил свой вопрос) трижды, и тогда Посланник Аллаха ﷺ сказал: «Если я скажу: “Да”, это непременно станет (для вас) обязательным, но вы, ведь не сможете (делать этого)!» А потом он сказал: «Избавьте меня (от расспросов о том, относительно) чего я с вами (не говорил), ибо, поистине, жившие до вас погибли из-за того, что задавали множество вопросов и не соглашались со своими пророками! Когда я велю вам что-нибудь, (просто) делайте из этого то, что вам по силам, а когда запрещаю вам что-нибудь, отказывайтесь от этого»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 461
+    }
+  },
+  {
+    "hadithnumber": 3258,
+    "arabicnumber": "1338.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 462
+    }
+  },
+  {
+    "hadithnumber": 3259,
+    "arabicnumber": "1338.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 463
+    }
+  },
+  {
+    "hadithnumber": 3260,
+    "arabicnumber": "1338.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 464
+    }
+  },
+  {
+    "hadithnumber": 3261,
+    "arabicnumber": "827.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 468
+    }
+  },
+  {
+    "hadithnumber": 3262,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3263,
+    "arabicnumber": "827.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 465
+    }
+  },
+  {
+    "hadithnumber": 3264,
+    "arabicnumber": "827.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 466
+    }
+  },
+  {
+    "hadithnumber": 3265,
+    "arabicnumber": "827.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 469
+    }
+  },
+  {
+    "hadithnumber": 3266,
+    "arabicnumber": "1339.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 470
+    }
+  },
+  {
+    "hadithnumber": 3267,
+    "arabicnumber": "1339.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 471
+    }
+  },
+  {
+    "hadithnumber": 3268,
+    "arabicnumber": "1339.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 472
+    }
+  },
+  {
+    "hadithnumber": 3269,
+    "arabicnumber": "1339.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 473
+    }
+  },
+  {
+    "hadithnumber": 3270,
+    "arabicnumber": "1340.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 474
+    }
+  },
+  {
+    "hadithnumber": 3271,
+    "arabicnumber": "1340.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 475
+    }
+  },
+  {
+    "hadithnumber": 3272,
+    "arabicnumber": "1341.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 476
+    }
+  },
+  {
+    "hadithnumber": 3273,
+    "arabicnumber": "1341.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 477
+    }
+  },
+  {
+    "hadithnumber": 3274,
+    "arabicnumber": "1341.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 478
+    }
+  },
+  {
+    "hadithnumber": 3275,
+    "arabicnumber": "1342",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 479
+    }
+  },
+  {
+    "hadithnumber": 3276,
+    "arabicnumber": "1343.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 480
+    }
+  },
+  {
+    "hadithnumber": 3277,
+    "arabicnumber": "1343.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 481
+    }
+  },
+  {
+    "hadithnumber": 3278,
+    "arabicnumber": "1344.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 482
+    }
+  },
+  {
+    "hadithnumber": 3279,
+    "arabicnumber": "1344.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 483
+    }
+  },
+  {
+    "hadithnumber": 3280,
+    "arabicnumber": "1345.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 484
+    }
+  },
+  {
+    "hadithnumber": 3281,
+    "arabicnumber": "1345.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 485
+    }
+  },
+  {
+    "hadithnumber": 3282,
+    "arabicnumber": "1257.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 486
+    }
+  },
+  {
+    "hadithnumber": 3283,
+    "arabicnumber": "1257.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 487
+    }
+  },
+  {
+    "hadithnumber": 3284,
+    "arabicnumber": "1257.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 488
+    }
+  },
+  {
+    "hadithnumber": 3285,
+    "arabicnumber": "1346.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 489
+    }
+  },
+  {
+    "hadithnumber": 3286,
+    "arabicnumber": "1346.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 490
+    }
+  },
+  {
+    "hadithnumber": 3287,
+    "arabicnumber": "1347",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 491
+    }
+  },
+  {
+    "hadithnumber": 3288,
+    "arabicnumber": "1348",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 492
+    }
+  },
+  {
+    "hadithnumber": 3289,
+    "arabicnumber": "1349.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 493
+    }
+  },
+  {
+    "hadithnumber": 3290,
+    "arabicnumber": "1349.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 494
+    }
+  },
+  {
+    "hadithnumber": 3291,
+    "arabicnumber": "1350.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 495
+    }
+  },
+  {
+    "hadithnumber": 3292,
+    "arabicnumber": "1350.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 496
+    }
+  },
+  {
+    "hadithnumber": 3293,
+    "arabicnumber": "1350.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 497
+    }
+  },
+  {
+    "hadithnumber": 3294,
+    "arabicnumber": "1351.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 498
+    }
+  },
+  {
+    "hadithnumber": 3295,
+    "arabicnumber": "1351.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 499
+    }
+  },
+  {
+    "hadithnumber": 3296,
+    "arabicnumber": "1351.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 500
+    }
+  },
+  {
+    "hadithnumber": 3297,
+    "arabicnumber": "1352.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 501
+    }
+  },
+  {
+    "hadithnumber": 3298,
+    "arabicnumber": "1352.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 502
+    }
+  },
+  {
+    "hadithnumber": 3299,
+    "arabicnumber": "1352.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 503
+    }
+  },
+  {
+    "hadithnumber": 3300,
+    "arabicnumber": "1352.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 504
+    }
+  },
+  {
+    "hadithnumber": 3301,
+    "arabicnumber": "1352.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 505
+    }
+  },
+  {
+    "hadithnumber": 3302,
+    "arabicnumber": "1353.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 506
+    }
+  },
+  {
+    "hadithnumber": 3303,
+    "arabicnumber": "1353.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 507
+    }
+  },
+  {
+    "hadithnumber": 3304,
+    "arabicnumber": "1354",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 508
+    }
+  },
+  {
+    "hadithnumber": 3305,
+    "arabicnumber": "1355.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 509
+    }
+  },
+  {
+    "hadithnumber": 3306,
+    "arabicnumber": "1355.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 510
+    }
+  },
+  {
+    "hadithnumber": 3307,
+    "arabicnumber": "1356",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 511
+    }
+  },
+  {
+    "hadithnumber": 3308,
+    "arabicnumber": "1357",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 512
+    }
+  },
+  {
+    "hadithnumber": 3309,
+    "arabicnumber": "1358.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 513
+    }
+  },
+  {
+    "hadithnumber": 3310,
+    "arabicnumber": "1358.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 514
+    }
+  },
+  {
+    "hadithnumber": 3311,
+    "arabicnumber": "1359.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 515
+    }
+  },
+  {
+    "hadithnumber": 3312,
+    "arabicnumber": "1359.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 516
+    }
+  },
+  {
+    "hadithnumber": 3313,
+    "arabicnumber": "1360.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 517
+    }
+  },
+  {
+    "hadithnumber": 3314,
+    "arabicnumber": "1360.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 518
+    }
+  },
+  {
+    "hadithnumber": 3315,
+    "arabicnumber": "1361.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 519
+    }
+  },
+  {
+    "hadithnumber": 3316,
+    "arabicnumber": "1361.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 520
+    }
+  },
+  {
+    "hadithnumber": 3317,
+    "arabicnumber": "1362",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 521
+    }
+  },
+  {
+    "hadithnumber": 3318,
+    "arabicnumber": "1363.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 522
+    }
+  },
+  {
+    "hadithnumber": 3319,
+    "arabicnumber": "1363.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 523
+    }
+  },
+  {
+    "hadithnumber": 3320,
+    "arabicnumber": "1364",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 524
+    }
+  },
+  {
+    "hadithnumber": 3321,
+    "arabicnumber": "1365.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 525
+    }
+  },
+  {
+    "hadithnumber": 3322,
+    "arabicnumber": "1365.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 526
+    }
+  },
+  {
+    "hadithnumber": 3323,
+    "arabicnumber": "1366",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 527
+    }
+  },
+  {
+    "hadithnumber": 3324,
+    "arabicnumber": "1367",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 528
+    }
+  },
+  {
+    "hadithnumber": 3325,
+    "arabicnumber": "1368",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 529
+    }
+  },
+  {
+    "hadithnumber": 3326,
+    "arabicnumber": "1369",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 530
+    }
+  },
+  {
+    "hadithnumber": 3327,
+    "arabicnumber": "1370.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 531
+    }
+  },
+  {
+    "hadithnumber": 3328,
+    "arabicnumber": "1370.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 532
+    }
+  },
+  {
+    "hadithnumber": 3329,
+    "arabicnumber": "1370.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 533
+    }
+  },
+  {
+    "hadithnumber": 3330,
+    "arabicnumber": "1371.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 534
+    }
+  },
+  {
+    "hadithnumber": 3331,
+    "arabicnumber": "1371.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 535
+    }
+  },
+  {
+    "hadithnumber": 3332,
+    "arabicnumber": "1372.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 536
+    }
+  },
+  {
+    "hadithnumber": 3333,
+    "arabicnumber": "1372.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 537
+    }
+  },
+  {
+    "hadithnumber": 3334,
+    "arabicnumber": "1373.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 538
+    }
+  },
+  {
+    "hadithnumber": 3335,
+    "arabicnumber": "1373.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 539
+    }
+  },
+  {
+    "hadithnumber": 3336,
+    "arabicnumber": "1374.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 540
+    }
+  },
+  {
+    "hadithnumber": 3337,
+    "arabicnumber": "1374.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 541
+    }
+  },
+  {
+    "hadithnumber": 3338,
+    "arabicnumber": "1374.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 542
+    }
+  },
+  {
+    "hadithnumber": 3339,
+    "arabicnumber": "1374.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 543
+    }
+  },
+  {
+    "hadithnumber": 3340,
+    "arabicnumber": "1374.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 544
+    }
+  },
+  {
+    "hadithnumber": 3341,
+    "arabicnumber": "1375",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 545
+    }
+  },
+  {
+    "hadithnumber": 3342,
+    "arabicnumber": "1376.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 546
+    }
+  },
+  {
+    "hadithnumber": 3343,
+    "arabicnumber": "1376.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 547
+    }
+  },
+  {
+    "hadithnumber": 3344,
+    "arabicnumber": "1377.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 548
+    }
+  },
+  {
+    "hadithnumber": 3345,
+    "arabicnumber": "1377.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 549
+    }
+  },
+  {
+    "hadithnumber": 3346,
+    "arabicnumber": "1377.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 550
+    }
+  },
+  {
+    "hadithnumber": 3347,
+    "arabicnumber": "1378.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 551
+    }
+  },
+  {
+    "hadithnumber": 3348,
+    "arabicnumber": "1378.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 552
+    }
+  },
+  {
+    "hadithnumber": 3349,
+    "arabicnumber": "1378.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 553
+    }
+  },
+  {
+    "hadithnumber": 3350,
+    "arabicnumber": "1379",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 554
+    }
+  },
+  {
+    "hadithnumber": 3351,
+    "arabicnumber": "1380",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 555
+    }
+  },
+  {
+    "hadithnumber": 3352,
+    "arabicnumber": "1381",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 556
+    }
+  },
+  {
+    "hadithnumber": 3353,
+    "arabicnumber": "1382.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 557
+    }
+  },
+  {
+    "hadithnumber": 3354,
+    "arabicnumber": "1382.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 558
+    }
+  },
+  {
+    "hadithnumber": 3355,
+    "arabicnumber": "1383",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 559
+    }
+  },
+  {
+    "hadithnumber": 3356,
+    "arabicnumber": "1384",
+    "text": "Передают со слов Зейда ибн Сабита о том, что Пророк ﷺ сказал: «Поистине, она Тайба (имея в виду Медину), и, поистине, она удаляет грязь подобно тому, как огонь удаляет налёт с серебра»",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 560
+    }
+  },
+  {
+    "hadithnumber": 3357,
+    "arabicnumber": "1385",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 561
+    }
+  },
+  {
+    "hadithnumber": 3358,
+    "arabicnumber": "1386.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 562
+    }
+  },
+  {
+    "hadithnumber": 3359,
+    "arabicnumber": "1386.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 563
+    }
+  },
+  {
+    "hadithnumber": 3360,
+    "arabicnumber": "1386.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 564
+    }
+  },
+  {
+    "hadithnumber": 3361,
+    "arabicnumber": "1387.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 565
+    }
+  },
+  {
+    "hadithnumber": 3362,
+    "arabicnumber": "1387.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 566
+    }
+  },
+  {
+    "hadithnumber": 3363,
+    "arabicnumber": "1387.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 567
+    }
+  },
+  {
+    "hadithnumber": 3364,
+    "arabicnumber": "1388.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 568
+    }
+  },
+  {
+    "hadithnumber": 3365,
+    "arabicnumber": "1388.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 569
+    }
+  },
+  {
+    "hadithnumber": 3366,
+    "arabicnumber": "1389.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 570
+    }
+  },
+  {
+    "hadithnumber": 3367,
+    "arabicnumber": "1389.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 571
+    }
+  },
+  {
+    "hadithnumber": 3368,
+    "arabicnumber": "1390.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 572
+    }
+  },
+  {
+    "hadithnumber": 3369,
+    "arabicnumber": "1390.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 573
+    }
+  },
+  {
+    "hadithnumber": 3370,
+    "arabicnumber": "1391",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 574
+    }
+  },
+  {
+    "hadithnumber": 3371,
+    "arabicnumber": "1392",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 575
+    }
+  },
+  {
+    "hadithnumber": 3372,
+    "arabicnumber": "1393.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 576
+    }
+  },
+  {
+    "hadithnumber": 3373,
+    "arabicnumber": "1393.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 577
+    }
+  },
+  {
+    "hadithnumber": 3374,
+    "arabicnumber": "1394.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 578
+    }
+  },
+  {
+    "hadithnumber": 3375,
+    "arabicnumber": "1394.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 579
+    }
+  },
+  {
+    "hadithnumber": 3376,
+    "arabicnumber": "1394.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 580
+    }
+  },
+  {
+    "hadithnumber": 3377,
+    "arabicnumber": "1394.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 581
+    }
+  },
+  {
+    "hadithnumber": 3378,
+    "arabicnumber": "1394.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 582
+    }
+  },
+  {
+    "hadithnumber": 3379,
+    "arabicnumber": "1395.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 583
+    }
+  },
+  {
+    "hadithnumber": 3380,
+    "arabicnumber": "1395.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 584
+    }
+  },
+  {
+    "hadithnumber": 3381,
+    "arabicnumber": "1395.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 585
+    }
+  },
+  {
+    "hadithnumber": 3382,
+    "arabicnumber": "1395.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 586
+    }
+  },
+  {
+    "hadithnumber": 3383,
+    "arabicnumber": "1396",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 587
+    }
+  },
+  {
+    "hadithnumber": 3384,
+    "arabicnumber": "1397.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 588
+    }
+  },
+  {
+    "hadithnumber": 3385,
+    "arabicnumber": "1397.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 589
+    }
+  },
+  {
+    "hadithnumber": 3386,
+    "arabicnumber": "1397.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 590
+    }
+  },
+  {
+    "hadithnumber": 3387,
+    "arabicnumber": "1398.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 591
+    }
+  },
+  {
+    "hadithnumber": 3388,
+    "arabicnumber": "1398.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 592
+    }
+  },
+  {
+    "hadithnumber": 3389,
+    "arabicnumber": "1399.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 593
+    }
+  },
+  {
+    "hadithnumber": 3390,
+    "arabicnumber": "1399.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 594
+    }
+  },
+  {
+    "hadithnumber": 3391,
+    "arabicnumber": "1399.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 595
+    }
+  },
+  {
+    "hadithnumber": 3392,
+    "arabicnumber": "1399.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 596
+    }
+  },
+  {
+    "hadithnumber": 3393,
+    "arabicnumber": "1399.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 597
+    }
+  },
+  {
+    "hadithnumber": 3394,
+    "arabicnumber": "1399.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 598
+    }
+  },
+  {
+    "hadithnumber": 3395,
+    "arabicnumber": "1399.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 599
+    }
+  },
+  {
+    "hadithnumber": 3396,
+    "arabicnumber": "1399.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 600
+    }
+  },
+  {
+    "hadithnumber": 3397,
+    "arabicnumber": "1399.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 15,
+      "hadith": 601
+    }
+  },
+  {
+    "hadithnumber": 3398,
+    "arabicnumber": "1400.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3399,
+    "arabicnumber": "1400.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3400,
+    "arabicnumber": "1400.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3401,
+    "arabicnumber": "1400.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3402,
+    "arabicnumber": "1400.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3403,
+    "arabicnumber": "1401",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3404,
+    "arabicnumber": "1402.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3405,
+    "arabicnumber": "1402.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3406,
+    "arabicnumber": "1402.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3407,
+    "arabicnumber": "1403.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3408,
+    "arabicnumber": "1403.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3409,
+    "arabicnumber": "1403.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3410,
+    "arabicnumber": "1404.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3411,
+    "arabicnumber": "1404.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3412,
+    "arabicnumber": "1404.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3413,
+    "arabicnumber": "1405.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3414,
+    "arabicnumber": "1405.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3415,
+    "arabicnumber": "1405.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3416,
+    "arabicnumber": "1405.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3417,
+    "arabicnumber": "1405.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3418,
+    "arabicnumber": "1405.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3419,
+    "arabicnumber": "1406.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3420,
+    "arabicnumber": "1406.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3421,
+    "arabicnumber": "1406.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3422,
+    "arabicnumber": "1406.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3423,
+    "arabicnumber": "1406.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3424,
+    "arabicnumber": "1406.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3425,
+    "arabicnumber": "1406.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3426,
+    "arabicnumber": "1406.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3427,
+    "arabicnumber": "1406.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3428,
+    "arabicnumber": "1406.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 31
+    }
+  },
+  {
+    "hadithnumber": 3429,
+    "arabicnumber": "1406.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 32
+    }
+  },
+  {
+    "hadithnumber": 3430,
+    "arabicnumber": "1406.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 33
+    }
+  },
+  {
+    "hadithnumber": 3431,
+    "arabicnumber": "1407.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 34
+    }
+  },
+  {
+    "hadithnumber": 3432,
+    "arabicnumber": "1407.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 35
+    }
+  },
+  {
+    "hadithnumber": 3433,
+    "arabicnumber": "1407.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 36
+    }
+  },
+  {
+    "hadithnumber": 3434,
+    "arabicnumber": "1407.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 37
+    }
+  },
+  {
+    "hadithnumber": 3435,
+    "arabicnumber": "1407.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 38
+    }
+  },
+  {
+    "hadithnumber": 3436,
+    "arabicnumber": "1408.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 39
+    }
+  },
+  {
+    "hadithnumber": 3437,
+    "arabicnumber": "1408.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 40
+    }
+  },
+  {
+    "hadithnumber": 3438,
+    "arabicnumber": "1408.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 41
+    }
+  },
+  {
+    "hadithnumber": 3439,
+    "arabicnumber": "1408.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 42
+    }
+  },
+  {
+    "hadithnumber": 3440,
+    "arabicnumber": "1408.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 43
+    }
+  },
+  {
+    "hadithnumber": 3441,
+    "arabicnumber": "1408.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 44
+    }
+  },
+  {
+    "hadithnumber": 3442,
+    "arabicnumber": "1408.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 45
+    }
+  },
+  {
+    "hadithnumber": 3443,
+    "arabicnumber": "1408.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 46
+    }
+  },
+  {
+    "hadithnumber": 3444,
+    "arabicnumber": "1408.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 47
+    }
+  },
+  {
+    "hadithnumber": 3445,
+    "arabicnumber": "1408.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 48
+    }
+  },
+  {
+    "hadithnumber": 3446,
+    "arabicnumber": "1409.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 49
+    }
+  },
+  {
+    "hadithnumber": 3447,
+    "arabicnumber": "1409.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 50
+    }
+  },
+  {
+    "hadithnumber": 3448,
+    "arabicnumber": "1409.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 51
+    }
+  },
+  {
+    "hadithnumber": 3449,
+    "arabicnumber": "1409.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 52
+    }
+  },
+  {
+    "hadithnumber": 3450,
+    "arabicnumber": "1409.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 53
+    }
+  },
+  {
+    "hadithnumber": 3451,
+    "arabicnumber": "1410.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 54
+    }
+  },
+  {
+    "hadithnumber": 3452,
+    "arabicnumber": "1410.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 55
+    }
+  },
+  {
+    "hadithnumber": 3453,
+    "arabicnumber": "1411",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 56
+    }
+  },
+  {
+    "hadithnumber": 3454,
+    "arabicnumber": "1412.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 57
+    }
+  },
+  {
+    "hadithnumber": 3455,
+    "arabicnumber": "1412.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 58
+    }
+  },
+  {
+    "hadithnumber": 3456,
+    "arabicnumber": "1412.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 59
+    }
+  },
+  {
+    "hadithnumber": 3457,
+    "arabicnumber": "1412.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 60
+    }
+  },
+  {
+    "hadithnumber": 3458,
+    "arabicnumber": "1413.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 61
+    }
+  },
+  {
+    "hadithnumber": 3459,
+    "arabicnumber": "1413.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 62
+    }
+  },
+  {
+    "hadithnumber": 3460,
+    "arabicnumber": "1413.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 63
+    }
+  },
+  {
+    "hadithnumber": 3461,
+    "arabicnumber": "1413.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 64
+    }
+  },
+  {
+    "hadithnumber": 3462,
+    "arabicnumber": "1413.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 65
+    }
+  },
+  {
+    "hadithnumber": 3463,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3464,
+    "arabicnumber": "1414",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 66
+    }
+  },
+  {
+    "hadithnumber": 3465,
+    "arabicnumber": "1415.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 67
+    }
+  },
+  {
+    "hadithnumber": 3466,
+    "arabicnumber": "1415.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 68
+    }
+  },
+  {
+    "hadithnumber": 3467,
+    "arabicnumber": "1415.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 69
+    }
+  },
+  {
+    "hadithnumber": 3468,
+    "arabicnumber": "1415.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 70
+    }
+  },
+  {
+    "hadithnumber": 3469,
+    "arabicnumber": "1416.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 71
+    }
+  },
+  {
+    "hadithnumber": 3470,
+    "arabicnumber": "1416.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 72
+    }
+  },
+  {
+    "hadithnumber": 3471,
+    "arabicnumber": "1417",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 73
+    }
+  },
+  {
+    "hadithnumber": 3472,
+    "arabicnumber": "1418",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 74
+    }
+  },
+  {
+    "hadithnumber": 3473,
+    "arabicnumber": "1419.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 75
+    }
+  },
+  {
+    "hadithnumber": 3474,
+    "arabicnumber": "1419.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 76
+    }
+  },
+  {
+    "hadithnumber": 3475,
+    "arabicnumber": "1420",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 77
+    }
+  },
+  {
+    "hadithnumber": 3476,
+    "arabicnumber": "1421.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 78
+    }
+  },
+  {
+    "hadithnumber": 3477,
+    "arabicnumber": "1421.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 79
+    }
+  },
+  {
+    "hadithnumber": 3478,
+    "arabicnumber": "1421.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 80
+    }
+  },
+  {
+    "hadithnumber": 3479,
+    "arabicnumber": "1422.01",
+    "text": "– Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Мой брачный договор с Посланником Аллаха ﷺ был заключён, (когда мне исполнилось) шесть лет, а моя свадьба состоялась, когда мне было девять лет. (Когда) мы приехали в Медину, я в течение месяца болела лихорадкой, (и у меня выпали) волосы, которые (снова) отросли до плеч после (выздоровления. Однажды, когда) я качалась на качелях вместе с моими подругами, Умм Руман пришла ко мне и громко позвала меня, и я подошла к ней, не зная, что ей нужно. Она взяла меня за руку и привела к дверям дома, а когда моё дыхание успокоилось, (Умм Руман) ввела меня в дом, где находились женщины из числа ансаров. Они стали говорить: “(Желаем тебе) блага, благословения (Аллаха) и (счастливого) удела!” Потом мать передала меня (этим женщинам), а они вымыли мне голову и приготовили меня (к свадьбе), и больше ничего неожиданного со мной не случилось, пока утром (не пришёл) Посланник Аллаха ﷺ которому (мать) передала меня»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 81
+    }
+  },
+  {
+    "hadithnumber": 3480,
+    "arabicnumber": "1422.02",
+    "text": "– Сообщается, что ‘Аиша (да будет доволен ею Аллах) сказала: «Мой брачный договор с Пророком ﷺ был заключён, когда я была девочкой (в возрасте) шести лет, а моя свадьба состоялась, когда мне было девять лет»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 82
+    }
+  },
+  {
+    "hadithnumber": 3481,
+    "arabicnumber": "1422.03",
+    "text": "– Передают со слов ‘Урвы (ибн аз-Зубайра), что ‘Аиша (да будет доволен ею Аллах) сказала: «Пророк ﷺ заключил с ней брак, когда она была девочкой (в возрасте) семи лет, и к нему отвели её (в качестве невесты,) когда ей было девять лет и её игрушки (всё ещё) были с ней, а умер он, когда ей было восемнадцать (лет)»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 83
+    }
+  },
+  {
+    "hadithnumber": 3482,
+    "arabicnumber": "1422.04",
+    "text": "– Передают со слов аль-Асвада, что ‘Аиша (да будет доволен ею Аллах) сказала: «Посланник Аллаха ﷺ заключил с ней брак, когда она была девочкой (в возрасте) шести (лет), свадьба её состоялась, когда ей было девять (лет), а умер он, когда ей было восемнадцать (лет)»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 84
+    }
+  },
+  {
+    "hadithnumber": 3483,
+    "arabicnumber": "1423.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 85
+    }
+  },
+  {
+    "hadithnumber": 3484,
+    "arabicnumber": "1423.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 86
+    }
+  },
+  {
+    "hadithnumber": 3485,
+    "arabicnumber": "1424.01",
+    "text": "Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «(Однажды), когда я находился у Пророка ﷺ к нему пришёл какой-то мужчина и сказал, что он женился на женщине из числа ансаров. Посланник Аллаха ﷺ спросил: “А ты посмотрел на неё?” Он ответил: “Нет”. (Пророк ﷺ) сказал: “Пойди и посмотри на неё, ибо в глазах у ансаров есть что-то”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 87
+    }
+  },
+  {
+    "hadithnumber": 3486,
+    "arabicnumber": "1424.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 88
+    }
+  },
+  {
+    "hadithnumber": 3487,
+    "arabicnumber": "1425.01",
+    "text": "Сахль ибн Са‘д (да будет доволен им Аллах) рассказывал: «Как-то раз одна женщина предложила себя в жёны Пророку ﷺ тогда кто-то из мужчин сказал ему: “О Посланник Аллаха (если ты не женишься на ней), выдай её замуж за меня!” Пророк ﷺ спросил: “А что у тебя есть (в качестве махра)?” Он ответил: “У меня нет ничего”. Тогда Пророк ﷺ сказал: “Ступай и постарайся найти хотя бы железное кольцо”. Этот человек ушёл, а потом вернулся и сказал: “Клянусь Аллахом, я не нашёл ничего, даже железного кольца. Но вот мой изар, и пусть ей будет половина от него”. А у него не было даже накидки. Выслушав его, Пророк ﷺ сказал: “А что ей делать с твоим изаром? Если его будешь носить ты, ничего не останется ей, а если его будет носить она, ничего не достанется тебе”. Тогда этот человек сел, и, просидев долгое время, поднялся со своего места. Это увидел Пророк ﷺ который подозвал его и спросил: “Что ты знаешь из Корана (наизусть)?” Он ответил: “Такую-то и такую-то суру”. И тогда Пророк ﷺ сказал ему: “Мы выдаем её за тебя замуж за то, что ты знаешь из Корана”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 89
+    }
+  },
+  {
+    "hadithnumber": 3488,
+    "arabicnumber": "1425.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 90
+    }
+  },
+  {
+    "hadithnumber": 3489,
+    "arabicnumber": "1426",
+    "text": "Передают со слов Мухаммада ибн Ибрахима, что Абу Саляма ибн ‘Абдуррахман сказал: «(Однажды) я спро­сил у ‘Аиши, жены Пророка ﷺ: “Каков был брачный дар Посланника Аллаха ﷺ?” Она сказала: “(В качестве) брачного дара (он давал каждой из) своих жён двенадцать укъий и (один) нашш (серебра)”. (Затем ‘Аиша) спросила: “Зна­ешь ли ты, что такое нашш?” Я ответил: “Нет”. Тогда она сказала: “Поло­вина укъии, в целом же это равнялось пятистам дирхемам. Такой брач­ный дар Посланник Аллаха ﷺ (делал каждой из своих) жён”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 91
+    }
+  },
+  {
+    "hadithnumber": 3490,
+    "arabicnumber": "1427.01",
+    "text": "Передают со слов Анаса ибн Малика (да будет доволен им Аллах), что, увидев на (теле) ‘Абдуррахмана ибн ‘Ауфа (да будет доволен им Аллах) жёлтые следы (благовоний), Пророк ﷺ спросил его: «Что это?» Тот сказал: «О Посланник Аллаха, я женился на одной женщине, (отдав ей в качестве брачного дара) золото весом с кос­точку», и (Пророк ﷺ сказал: «Да благословит же тебя Аллах! /Фа-барака-Ллаху ляка/ (А теперь) устрой угощение хотя бы из одной овцы»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 92
+    }
+  },
+  {
+    "hadithnumber": 3491,
+    "arabicnumber": "1427.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 93
+    }
+  },
+  {
+    "hadithnumber": 3492,
+    "arabicnumber": "1427.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 94
+    }
+  },
+  {
+    "hadithnumber": 3493,
+    "arabicnumber": "1427.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 95
+    }
+  },
+  {
+    "hadithnumber": 3494,
+    "arabicnumber": "1427.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 96
+    }
+  },
+  {
+    "hadithnumber": 3495,
+    "arabicnumber": "1427.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 97
+    }
+  },
+  {
+    "hadithnumber": 3496,
+    "arabicnumber": "1427.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 98
+    }
+  },
+  {
+    "hadithnumber": 3497,
+    "arabicnumber": "1365.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 99
+    }
+  },
+  {
+    "hadithnumber": 3498,
+    "arabicnumber": "1365.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 100
+    }
+  },
+  {
+    "hadithnumber": 3499,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3500,
+    "arabicnumber": "1365.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 102
+    }
+  },
+  {
+    "hadithnumber": 3501,
+    "arabicnumber": "1365.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 104
+    }
+  },
+  {
+    "hadithnumber": 3502,
+    "arabicnumber": "1428.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 103
+    }
+  },
+  {
+    "hadithnumber": 3503,
+    "arabicnumber": "1428.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 105
+    }
+  },
+  {
+    "hadithnumber": 3504,
+    "arabicnumber": "1428.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 106
+    }
+  },
+  {
+    "hadithnumber": 3505,
+    "arabicnumber": "1428.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 107
+    }
+  },
+  {
+    "hadithnumber": 3506,
+    "arabicnumber": "1428.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 108
+    }
+  },
+  {
+    "hadithnumber": 3507,
+    "arabicnumber": "1428.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 109
+    }
+  },
+  {
+    "hadithnumber": 3508,
+    "arabicnumber": "1428.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 110
+    }
+  },
+  {
+    "hadithnumber": 3509,
+    "arabicnumber": "1429.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 112
+    }
+  },
+  {
+    "hadithnumber": 3510,
+    "arabicnumber": "1429.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 113
+    }
+  },
+  {
+    "hadithnumber": 3511,
+    "arabicnumber": "1429.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 114
+    }
+  },
+  {
+    "hadithnumber": 3512,
+    "arabicnumber": "1429.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 115
+    }
+  },
+  {
+    "hadithnumber": 3513,
+    "arabicnumber": "1429.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 116
+    }
+  },
+  {
+    "hadithnumber": 3514,
+    "arabicnumber": "1429.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 117
+    }
+  },
+  {
+    "hadithnumber": 3515,
+    "arabicnumber": "1429.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 118
+    }
+  },
+  {
+    "hadithnumber": 3516,
+    "arabicnumber": "1429.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 119
+    }
+  },
+  {
+    "hadithnumber": 3517,
+    "arabicnumber": "1429.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 120
+    }
+  },
+  {
+    "hadithnumber": 3518,
+    "arabicnumber": "1430.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 121
+    }
+  },
+  {
+    "hadithnumber": 3519,
+    "arabicnumber": "1430.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 122
+    }
+  },
+  {
+    "hadithnumber": 3520,
+    "arabicnumber": "1431",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 123
+    }
+  },
+  {
+    "hadithnumber": 3521,
+    "arabicnumber": "1432.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 124
+    }
+  },
+  {
+    "hadithnumber": 3522,
+    "arabicnumber": "1432.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 125
+    }
+  },
+  {
+    "hadithnumber": 3523,
+    "arabicnumber": "1432.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 126
+    }
+  },
+  {
+    "hadithnumber": 3524,
+    "arabicnumber": "1432.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 127
+    }
+  },
+  {
+    "hadithnumber": 3525,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3526,
+    "arabicnumber": "1433.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 128
+    }
+  },
+  {
+    "hadithnumber": 3527,
+    "arabicnumber": "1433.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 129
+    }
+  },
+  {
+    "hadithnumber": 3528,
+    "arabicnumber": "1433.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 130
+    }
+  },
+  {
+    "hadithnumber": 3529,
+    "arabicnumber": "1433.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 131
+    }
+  },
+  {
+    "hadithnumber": 3530,
+    "arabicnumber": "1433.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 132
+    }
+  },
+  {
+    "hadithnumber": 3531,
+    "arabicnumber": "1433.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 133
+    }
+  },
+  {
+    "hadithnumber": 3532,
+    "arabicnumber": "1433.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 134
+    }
+  },
+  {
+    "hadithnumber": 3533,
+    "arabicnumber": "1434.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 135
+    }
+  },
+  {
+    "hadithnumber": 3534,
+    "arabicnumber": "1434.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 136
+    }
+  },
+  {
+    "hadithnumber": 3535,
+    "arabicnumber": "1435.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 137
+    }
+  },
+  {
+    "hadithnumber": 3536,
+    "arabicnumber": "1435.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 138
+    }
+  },
+  {
+    "hadithnumber": 3537,
+    "arabicnumber": "1435.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 139
+    }
+  },
+  {
+    "hadithnumber": 3538,
+    "arabicnumber": "1436.01",
+    "text": "– Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если женщина проведёт ночь не на ложе своего мужа, ангелы будут проклинать её до самого утра»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 140
+    }
+  },
+  {
+    "hadithnumber": 3539,
+    "arabicnumber": "1436.02",
+    "text": "– И рассказал мне его Яхйа ибн Хабиб:– Рассказал нам Халид, то есть Ибн аль-Харис:– Рассказал нам Шу‘ба (хадис) с этим иснадом, и он сказал: «… пока она не вернётся»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 141
+    }
+  },
+  {
+    "hadithnumber": 3540,
+    "arabicnumber": "1436.03",
+    "text": "– Сообщается, что Абу Хурайра (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Клянусь Тем, в чьей длани душа моя, если кто-либо из мужчин позовёт свою жену в постель, а она откажет ему, тот, кто пребывает на небесах, не перестанет гневаться на неё до тех пор, пока (муж снова) не будет доволен ею!”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 142
+    }
+  },
+  {
+    "hadithnumber": 3541,
+    "arabicnumber": "1436.04",
+    "text": "– Сообщается, что Абу Хурайра (да будет доволен им Аллах), сказал: «Посланник Аллаха ﷺ сказал: “Если мужчина позовёт свою жену на своё ложе, а она не придёт к нему, и он заснёт, гневаясь на неё, ангелы будут проклинать её до самого утра”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 143
+    }
+  },
+  {
+    "hadithnumber": 3542,
+    "arabicnumber": "1437.01",
+    "text": "– Сообщается, что Абу Са‘ид аль-Худри (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Поистине, в День воскрешения среди людей, которые окажутся в наихудшем положении пред Аллахом, будет (такой) мужчина, который проводит ночь со (своей) женой, а потом разглашающий её тайну”»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 144
+    }
+  },
+  {
+    "hadithnumber": 3543,
+    "arabicnumber": "1437.02",
+    "text": "– Сообщается, что Абу Са‘ид аль-Худри (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Поистине, в День воскрешения одним из величайших (нарушений) аманата пред Аллахом будет (то, как) мужчина проводит ночь со (своей) женой, а потом разглашает её тайну». А Ибн Нумайр (в своей версии) сказал: «Поистине, величайшим …»",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 145
+    }
+  },
+  {
+    "hadithnumber": 3544,
+    "arabicnumber": "1438.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 146
+    }
+  },
+  {
+    "hadithnumber": 3545,
+    "arabicnumber": "1438.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 147
+    }
+  },
+  {
+    "hadithnumber": 3546,
+    "arabicnumber": "1438.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 148
+    }
+  },
+  {
+    "hadithnumber": 3547,
+    "arabicnumber": "1438.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 149
+    }
+  },
+  {
+    "hadithnumber": 3548,
+    "arabicnumber": "1438.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 150
+    }
+  },
+  {
+    "hadithnumber": 3549,
+    "arabicnumber": "1438.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 151
+    }
+  },
+  {
+    "hadithnumber": 3550,
+    "arabicnumber": "1438.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 152
+    }
+  },
+  {
+    "hadithnumber": 3551,
+    "arabicnumber": "1438.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 153
+    }
+  },
+  {
+    "hadithnumber": 3552,
+    "arabicnumber": "1438.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 154
+    }
+  },
+  {
+    "hadithnumber": 3553,
+    "arabicnumber": "1438.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 155
+    }
+  },
+  {
+    "hadithnumber": 3554,
+    "arabicnumber": "1438.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 156
+    }
+  },
+  {
+    "hadithnumber": 3555,
+    "arabicnumber": "1438.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 157
+    }
+  },
+  {
+    "hadithnumber": 3556,
+    "arabicnumber": "1439.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 158
+    }
+  },
+  {
+    "hadithnumber": 3557,
+    "arabicnumber": "1439.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 159
+    }
+  },
+  {
+    "hadithnumber": 3558,
+    "arabicnumber": "1439.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 160
+    }
+  },
+  {
+    "hadithnumber": 3559,
+    "arabicnumber": "1440.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 161
+    }
+  },
+  {
+    "hadithnumber": 3560,
+    "arabicnumber": "1440.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 162
+    }
+  },
+  {
+    "hadithnumber": 3561,
+    "arabicnumber": "1440.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 163
+    }
+  },
+  {
+    "hadithnumber": 3562,
+    "arabicnumber": "1441.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 164
+    }
+  },
+  {
+    "hadithnumber": 3563,
+    "arabicnumber": "1441.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 165
+    }
+  },
+  {
+    "hadithnumber": 3564,
+    "arabicnumber": "1442.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 166
+    }
+  },
+  {
+    "hadithnumber": 3565,
+    "arabicnumber": "1442.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 167
+    }
+  },
+  {
+    "hadithnumber": 3566,
+    "arabicnumber": "1442.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 168
+    }
+  },
+  {
+    "hadithnumber": 3567,
+    "arabicnumber": "1443",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 16,
+      "hadith": 169
+    }
+  },
+  {
+    "hadithnumber": 3568,
+    "arabicnumber": "1444.01",
+    "text": "Передают со слов ‘Аиши, да будет доволен ею Аллах, что (однажды, когда) у неё находился Посланник Аллаха ﷺ она услышала голос мужчины, просившего разрешения войти в дом Хафсы.‘Аиша, да будет доволен ею Аллах, сказала: «Я сказала: “О Посланник Аллаха, этот человек просит разрешения войти в твой дом”. Посланник Аллаха ﷺ сказал: “Я думаю, что это такой-то”, (и назвал имя) молочного дяди Хафсы. ‘Аиша сказала: “О Посланник Аллаха, а если бы был жив такой-то и назвала имя своего молочного дяди, мог бы он зайти ко мне?” и Посланник Аллаха ﷺ сказал: “Да, ведь молочным родственникам запрещается то же самое, что и кровным”»",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3569,
+    "arabicnumber": "1444.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3570,
+    "arabicnumber": "1444.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3571,
+    "arabicnumber": "1445.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3572,
+    "arabicnumber": "1445.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3573,
+    "arabicnumber": "1445.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3574,
+    "arabicnumber": "1445.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3575,
+    "arabicnumber": "1445.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3576,
+    "arabicnumber": "1445.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3577,
+    "arabicnumber": "1445.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3578,
+    "arabicnumber": "1445.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3579,
+    "arabicnumber": "1445.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3580,
+    "arabicnumber": "1445.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3581,
+    "arabicnumber": "1446.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3582,
+    "arabicnumber": "1446.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3583,
+    "arabicnumber": "1447.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3584,
+    "arabicnumber": "1447.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3585,
+    "arabicnumber": "1448",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3586,
+    "arabicnumber": "1449.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3587,
+    "arabicnumber": "1449.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3588,
+    "arabicnumber": "1449.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3589,
+    "arabicnumber": "1449.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3590,
+    "arabicnumber": "1450",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3591,
+    "arabicnumber": "1451.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3592,
+    "arabicnumber": "1451.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3593,
+    "arabicnumber": "1451.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3594,
+    "arabicnumber": "1451.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3595,
+    "arabicnumber": "1451.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3596,
+    "arabicnumber": "1451.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3597,
+    "arabicnumber": "1452.01",
+    "text": "Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «(В од­ном) из ниспосланных (свыше аятов) Корана было (сказано, что если) известно, что (одна и та же кормилица) десять раз покормила грудью (мальчика и девочку, то им) запрещается (вступать в брак). Впоследст­вии (слово “десять”) было отменено (и заменено) на “пять” (когда же) Посланник Аллаха ﷺ скончался, (слова “десять раз” некоторое время) читались (людьми среди прочего, что читается) из Корана»",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3598,
+    "arabicnumber": "1452.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 31
+    }
+  },
+  {
+    "hadithnumber": 3599,
+    "arabicnumber": "1452.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 32
+    }
+  },
+  {
+    "hadithnumber": 3600,
+    "arabicnumber": "1453.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 33
+    }
+  },
+  {
+    "hadithnumber": 3601,
+    "arabicnumber": "1453.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 34
+    }
+  },
+  {
+    "hadithnumber": 3602,
+    "arabicnumber": "1453.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 35
+    }
+  },
+  {
+    "hadithnumber": 3603,
+    "arabicnumber": "1453.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 36
+    }
+  },
+  {
+    "hadithnumber": 3604,
+    "arabicnumber": "1453.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 37
+    }
+  },
+  {
+    "hadithnumber": 3605,
+    "arabicnumber": "1454",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 38
+    }
+  },
+  {
+    "hadithnumber": 3606,
+    "arabicnumber": "1455.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 39
+    }
+  },
+  {
+    "hadithnumber": 3607,
+    "arabicnumber": "1455.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 40
+    }
+  },
+  {
+    "hadithnumber": 3608,
+    "arabicnumber": "1456.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 41
+    }
+  },
+  {
+    "hadithnumber": 3609,
+    "arabicnumber": "1456.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 42
+    }
+  },
+  {
+    "hadithnumber": 3610,
+    "arabicnumber": "1456.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 44
+    }
+  },
+  {
+    "hadithnumber": 3611,
+    "arabicnumber": "1456.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 43
+    }
+  },
+  {
+    "hadithnumber": 3612,
+    "arabicnumber": "1456.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 45
+    }
+  },
+  {
+    "hadithnumber": 3613,
+    "arabicnumber": "1457.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 46
+    }
+  },
+  {
+    "hadithnumber": 3614,
+    "arabicnumber": "1457.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 47
+    }
+  },
+  {
+    "hadithnumber": 3615,
+    "arabicnumber": "1458.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 48
+    }
+  },
+  {
+    "hadithnumber": 3616,
+    "arabicnumber": "1458.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 49
+    }
+  },
+  {
+    "hadithnumber": 3617,
+    "arabicnumber": "1459.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 50
+    }
+  },
+  {
+    "hadithnumber": 3618,
+    "arabicnumber": "1459.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 51
+    }
+  },
+  {
+    "hadithnumber": 3619,
+    "arabicnumber": "1459.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 52
+    }
+  },
+  {
+    "hadithnumber": 3620,
+    "arabicnumber": "1459.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 53
+    }
+  },
+  {
+    "hadithnumber": 3621,
+    "arabicnumber": "1460.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 54
+    }
+  },
+  {
+    "hadithnumber": 3622,
+    "arabicnumber": "1460.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 55
+    }
+  },
+  {
+    "hadithnumber": 3623,
+    "arabicnumber": "1460.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 56
+    }
+  },
+  {
+    "hadithnumber": 3624,
+    "arabicnumber": "1460.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 57
+    }
+  },
+  {
+    "hadithnumber": 3625,
+    "arabicnumber": "1460.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 58
+    }
+  },
+  {
+    "hadithnumber": 3626,
+    "arabicnumber": "1461.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 59
+    }
+  },
+  {
+    "hadithnumber": 3627,
+    "arabicnumber": "1461.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 60
+    }
+  },
+  {
+    "hadithnumber": 3628,
+    "arabicnumber": "1462",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 61
+    }
+  },
+  {
+    "hadithnumber": 3629,
+    "arabicnumber": "1463.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 62
+    }
+  },
+  {
+    "hadithnumber": 3630,
+    "arabicnumber": "1463.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 63
+    }
+  },
+  {
+    "hadithnumber": 3631,
+    "arabicnumber": "1464.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 64
+    }
+  },
+  {
+    "hadithnumber": 3632,
+    "arabicnumber": "1464.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 65
+    }
+  },
+  {
+    "hadithnumber": 3633,
+    "arabicnumber": "1465.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 66
+    }
+  },
+  {
+    "hadithnumber": 3634,
+    "arabicnumber": "1465.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 67
+    }
+  },
+  {
+    "hadithnumber": 3635,
+    "arabicnumber": "1466",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 68
+    }
+  },
+  {
+    "hadithnumber": 3636,
+    "arabicnumber": "715.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 69
+    }
+  },
+  {
+    "hadithnumber": 3637,
+    "arabicnumber": "715.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 70
+    }
+  },
+  {
+    "hadithnumber": 3638,
+    "arabicnumber": "715.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 71
+    }
+  },
+  {
+    "hadithnumber": 3639,
+    "arabicnumber": "715.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 72
+    }
+  },
+  {
+    "hadithnumber": 3640,
+    "arabicnumber": "715.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 73
+    }
+  },
+  {
+    "hadithnumber": 3641,
+    "arabicnumber": "715.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 74
+    }
+  },
+  {
+    "hadithnumber": 3642,
+    "arabicnumber": "715.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 75
+    }
+  },
+  {
+    "hadithnumber": 3643,
+    "arabicnumber": "715.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 76
+    }
+  },
+  {
+    "hadithnumber": 3644,
+    "arabicnumber": "715.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 77
+    }
+  },
+  {
+    "hadithnumber": 3645,
+    "arabicnumber": "1467.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 78
+    }
+  },
+  {
+    "hadithnumber": 3646,
+    "arabicnumber": "1467.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 79
+    }
+  },
+  {
+    "hadithnumber": 3647,
+    "arabicnumber": "1468.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 80
+    }
+  },
+  {
+    "hadithnumber": 3648,
+    "arabicnumber": "1468.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 81
+    }
+  },
+  {
+    "hadithnumber": 3649,
+    "arabicnumber": "1469",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 82
+    }
+  },
+  {
+    "hadithnumber": 3650,
+    "arabicnumber": "1470.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 83
+    }
+  },
+  {
+    "hadithnumber": 3651,
+    "arabicnumber": "1470.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 17,
+      "hadith": 84
+    }
+  },
+  {
+    "hadithnumber": 3652,
+    "arabicnumber": "1471.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3653,
+    "arabicnumber": "1471.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3654,
+    "arabicnumber": "1471.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3655,
+    "arabicnumber": "1471.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3656,
+    "arabicnumber": "1471.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3657,
+    "arabicnumber": "1471.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3658,
+    "arabicnumber": "1471.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3659,
+    "arabicnumber": "1471.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3660,
+    "arabicnumber": "1471.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3661,
+    "arabicnumber": "1471.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3662,
+    "arabicnumber": "1471.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3663,
+    "arabicnumber": "1471.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3664,
+    "arabicnumber": "1471.13",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3665,
+    "arabicnumber": "1471.14",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3666,
+    "arabicnumber": "1471.15",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3667,
+    "arabicnumber": "1471.16",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3668,
+    "arabicnumber": "1471.17",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3669,
+    "arabicnumber": "1471.18",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3670,
+    "arabicnumber": "1471.19",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3671,
+    "arabicnumber": "1471.20",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3672,
+    "arabicnumber": "1471.21",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3673,
+    "arabicnumber": "1472.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3674,
+    "arabicnumber": "1472.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3675,
+    "arabicnumber": "1472.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3676,
+    "arabicnumber": "1473.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3677,
+    "arabicnumber": "1473.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3678,
+    "arabicnumber": "1474.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3679,
+    "arabicnumber": "1474.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3680,
+    "arabicnumber": "1474.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3681,
+    "arabicnumber": "1475",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3682,
+    "arabicnumber": "1476.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 31
+    }
+  },
+  {
+    "hadithnumber": 3683,
+    "arabicnumber": "1476.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 32
+    }
+  },
+  {
+    "hadithnumber": 3684,
+    "arabicnumber": "1477.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 33
+    }
+  },
+  {
+    "hadithnumber": 3685,
+    "arabicnumber": "1477.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 34
+    }
+  },
+  {
+    "hadithnumber": 3686,
+    "arabicnumber": "1477.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 35
+    }
+  },
+  {
+    "hadithnumber": 3687,
+    "arabicnumber": "1477.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 36
+    }
+  },
+  {
+    "hadithnumber": 3688,
+    "arabicnumber": "1477.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 37
+    }
+  },
+  {
+    "hadithnumber": 3689,
+    "arabicnumber": "1477.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 38
+    }
+  },
+  {
+    "hadithnumber": 3690,
+    "arabicnumber": "1478",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 39
+    }
+  },
+  {
+    "hadithnumber": 3691,
+    "arabicnumber": "1479.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 40
+    }
+  },
+  {
+    "hadithnumber": 3692,
+    "arabicnumber": "1479.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 41
+    }
+  },
+  {
+    "hadithnumber": 3693,
+    "arabicnumber": "1479.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 42
+    }
+  },
+  {
+    "hadithnumber": 3694,
+    "arabicnumber": "1479.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 43
+    }
+  },
+  {
+    "hadithnumber": 3695,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3696,
+    "arabicnumber": "1475.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 44
+    }
+  },
+  {
+    "hadithnumber": 3697,
+    "arabicnumber": "1480.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 45
+    }
+  },
+  {
+    "hadithnumber": 3698,
+    "arabicnumber": "1480.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 46
+    }
+  },
+  {
+    "hadithnumber": 3699,
+    "arabicnumber": "1480.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 47
+    }
+  },
+  {
+    "hadithnumber": 3700,
+    "arabicnumber": "1480.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 48
+    }
+  },
+  {
+    "hadithnumber": 3701,
+    "arabicnumber": "1480.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 49
+    }
+  },
+  {
+    "hadithnumber": 3702,
+    "arabicnumber": "1480.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 50
+    }
+  },
+  {
+    "hadithnumber": 3703,
+    "arabicnumber": "1480.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 51
+    }
+  },
+  {
+    "hadithnumber": 3704,
+    "arabicnumber": "1480.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 52
+    }
+  },
+  {
+    "hadithnumber": 3705,
+    "arabicnumber": "1480.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 53
+    }
+  },
+  {
+    "hadithnumber": 3706,
+    "arabicnumber": "1480.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 54
+    }
+  },
+  {
+    "hadithnumber": 3707,
+    "arabicnumber": "1480.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 55
+    }
+  },
+  {
+    "hadithnumber": 3708,
+    "arabicnumber": "1480.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 56
+    }
+  },
+  {
+    "hadithnumber": 3709,
+    "arabicnumber": "1480.13",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 57
+    }
+  },
+  {
+    "hadithnumber": 3710,
+    "arabicnumber": "1480.14",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 58
+    }
+  },
+  {
+    "hadithnumber": 3711,
+    "arabicnumber": "1480.15",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 59
+    }
+  },
+  {
+    "hadithnumber": 3712,
+    "arabicnumber": "1480.16",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 60
+    }
+  },
+  {
+    "hadithnumber": 3713,
+    "arabicnumber": "1480.17",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 61
+    }
+  },
+  {
+    "hadithnumber": 3714,
+    "arabicnumber": "1480.18",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 62
+    }
+  },
+  {
+    "hadithnumber": 3715,
+    "arabicnumber": "1480.19",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 63
+    }
+  },
+  {
+    "hadithnumber": 3716,
+    "arabicnumber": "1480.20",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 64
+    }
+  },
+  {
+    "hadithnumber": 3717,
+    "arabicnumber": "1481.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 65
+    }
+  },
+  {
+    "hadithnumber": 3718,
+    "arabicnumber": "1482",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 66
+    }
+  },
+  {
+    "hadithnumber": 3719,
+    "arabicnumber": "1481.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 67
+    }
+  },
+  {
+    "hadithnumber": 3720,
+    "arabicnumber": "1481.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 68
+    }
+  },
+  {
+    "hadithnumber": 3721,
+    "arabicnumber": "1483",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 69
+    }
+  },
+  {
+    "hadithnumber": 3722,
+    "arabicnumber": "1484",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 70
+    }
+  },
+  {
+    "hadithnumber": 3723,
+    "arabicnumber": "1485.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 71
+    }
+  },
+  {
+    "hadithnumber": 3724,
+    "arabicnumber": "1485.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 72
+    }
+  },
+  {
+    "hadithnumber": 3725,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3726,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3727,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3728,
+    "arabicnumber": "1489",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 73
+    }
+  },
+  {
+    "hadithnumber": 3729,
+    "arabicnumber": "1486.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 74
+    }
+  },
+  {
+    "hadithnumber": 3730,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3731,
+    "arabicnumber": "1488.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 75
+    }
+  },
+  {
+    "hadithnumber": 3732,
+    "arabicnumber": "1488.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 76
+    }
+  },
+  {
+    "hadithnumber": 3733,
+    "arabicnumber": "1488.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 77
+    }
+  },
+  {
+    "hadithnumber": 3734,
+    "arabicnumber": "1486.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 79
+    }
+  },
+  {
+    "hadithnumber": 3735,
+    "arabicnumber": "1490.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 80
+    }
+  },
+  {
+    "hadithnumber": 3736,
+    "arabicnumber": "1490.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 81
+    }
+  },
+  {
+    "hadithnumber": 3737,
+    "arabicnumber": "1490.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 82
+    }
+  },
+  {
+    "hadithnumber": 3738,
+    "arabicnumber": "1490.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 83
+    }
+  },
+  {
+    "hadithnumber": 3739,
+    "arabicnumber": "1491",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 84
+    }
+  },
+  {
+    "hadithnumber": 3740,
+    "arabicnumber": "938.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 85
+    }
+  },
+  {
+    "hadithnumber": 3741,
+    "arabicnumber": "938.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 86
+    }
+  },
+  {
+    "hadithnumber": 3742,
+    "arabicnumber": "938.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 18,
+      "hadith": 87
+    }
+  },
+  {
+    "hadithnumber": 3743,
+    "arabicnumber": "1492.01",
+    "text": "– Передают со слов Ибн Шихаба (аз-Зухри) о том, что Сахль ибн Са‘д ас-Са‘иди, да будет доволен им Аллах, сообщил ему, что (однажды) ‘Уваймир аль-‘Аджляни пришёл к ‘Асиму ибн ‘Ади аль-Ансари и ска­зал ему: «О ‘Асим, скажи мне, если ктонибудь застанет свою жену с (другим) мужчиной, (следует) ли (мужу) убить его, после чего вы убьёте его самого, или как он (должен) поступить? О ‘Асим, спроси об этом для меня у Посланника Аллаха ﷺ». ‘Асим спросил об этом Посланника Аллаха ﷺ который не любил вопросы и порицал (тех, кто их задавал), и ‘Асиму было неприятно слышать то, что он ему сказал. Когда ‘Асим вернулся к своей семье, к нему пришёл ‘Уваймир и спро­сил: «О ‘Асим, что сказал Посланник Аллаха ﷺ?» (В ответ) ‘Уваймиру ‘Асим сказал: «Ты пришёл ко мне не к добру, ибо Посланнику Аллаха ﷺ не понравилось то, о чём я его спросил». ‘Уваймир сказал: «Клянусь Аллахом, я не (успокоюсь), пока не спрошу его об этом!» После этого ‘Уваймир отправился к Посланнику Аллаха ﷺ (увидел, что) он (сидит) в окружении людей, и сказал: «О Посланник Аллаха, скажи мне, если ктонибудь застанет свою жену с (другим) мужчиной, (следует) ли (мужу) убить его, после чего вы убьёте его самого, или как он (должен) поступить?» (На это) Посланник Аллаха ﷺ сказал: «Аллах ниспослал (аяты) о тебе и твоей жене, ступай же и приведи её (сюда)».Сахль сказал: «(Когда) они стали (клясться) и призывать на себя проклятия, я вместе с (другими) людьми находился у Посланника Аллаха ﷺ когда же они закончили, ‘Уваймир сказал: “О Посланник Аллаха, если я оставлю её (у себя, получится, что) я солгал” после чего дал ей тройной развод ещё до того, как Посланник Аллаха ﷺ велел ему (сделать это)». Ибн Шихаб сказал: «И (впоследствии) это стало обычаем (всех супругов, приносивших подобные клятвы)»",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3744,
+    "arabicnumber": "1492.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3745,
+    "arabicnumber": "1492.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3746,
+    "arabicnumber": "1493.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3747,
+    "arabicnumber": "1493.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3748,
+    "arabicnumber": "1493.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3749,
+    "arabicnumber": "1493.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3750,
+    "arabicnumber": "1493.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3751,
+    "arabicnumber": "1493.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3752,
+    "arabicnumber": "1494.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3753,
+    "arabicnumber": "1494.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3754,
+    "arabicnumber": "1494.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3755,
+    "arabicnumber": "1495.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3756,
+    "arabicnumber": "1495.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3757,
+    "arabicnumber": "1496",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3758,
+    "arabicnumber": "1497.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3759,
+    "arabicnumber": "1497.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3760,
+    "arabicnumber": "1497.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3761,
+    "arabicnumber": "1498.01",
+    "text": "– Передают со слов Абу Хурайры, да будет доволен им Аллах, что однажды Са‘д ибн ‘Убада аль-Ансари, да будет доволен им Аллах, спросил: «О Посланник Аллаха, скажи, может ли человек убить постороннего мужчину, если застанет его со своей женой?» – и Посланник Аллаха ﷺ сказал: «Нет!» Са‘д сказал: «Да, клянусь Тем, Кто почтил тебя с истиной!» И тогда Посланник Аллаха ﷺ сказал: «Послушайте то, что говорит ваш господин»",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3762,
+    "arabicnumber": "1498.02",
+    "text": "– Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что (однажды) Са‘д ибн ‘Убада, да будет доволен им Аллах, спросил: «О Посланник Аллаха, если я застану со своей женой постороннего мужчину, я не должен спешить, пока не приведу четырёх свидетелей?» (Посланник Аллаха ﷺ) сказал: «Да!»",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3763,
+    "arabicnumber": "1498.03",
+    "text": "– Передают, что Абу Хурайра, да будет доволен им Аллах, сказал: «(Однажды) Са‘д ибн ‘Убада спросил: “О Посланник Аллаха, (верно ли, что) если я застану свою жену с (посторонним) мужчиной, то мне не (следует) прикасаться к нему, пока я не приведу четырёх свидетелей?” Посланник Аллаха ﷺ сказал: “Да”. (Услышав это, Са‘д) воскликнул: “Нет! Клянусь Тем, Кто послал тебя с истиной, если (такое случится), я сначала (ударю) его мечом!” Тогда Посланник Аллаха ﷺ сказал: “Слушайте, что говорит ваш господин. Поистине, он ревнив, но я ревнивее его, а Аллах рев­нивее меня”»",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3764,
+    "arabicnumber": "1499.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3765,
+    "arabicnumber": "1499.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3766,
+    "arabicnumber": "1500.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3767,
+    "arabicnumber": "1500.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3768,
+    "arabicnumber": "1500.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3769,
+    "arabicnumber": "1500.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 19,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3770,
+    "arabicnumber": "1501.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3771,
+    "arabicnumber": "1501.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3772,
+    "arabicnumber": "1502",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3773,
+    "arabicnumber": "1503.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3774,
+    "arabicnumber": "1503.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3775,
+    "arabicnumber": "1503.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3776,
+    "arabicnumber": "1504.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3777,
+    "arabicnumber": "1504.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3778,
+    "arabicnumber": "1504.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3779,
+    "arabicnumber": "1504.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3780,
+    "arabicnumber": "1504.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3781,
+    "arabicnumber": "1504.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3782,
+    "arabicnumber": "1504.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3783,
+    "arabicnumber": "1504.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3784,
+    "arabicnumber": "1504.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3785,
+    "arabicnumber": "1504.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3786,
+    "arabicnumber": "1504.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3787,
+    "arabicnumber": "1505",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3788,
+    "arabicnumber": "1506.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3789,
+    "arabicnumber": "1506.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3790,
+    "arabicnumber": "1507",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3791,
+    "arabicnumber": "1508.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3792,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3793,
+    "arabicnumber": "1508.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3794,
+    "arabicnumber": "1370.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3795,
+    "arabicnumber": "1509.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3796,
+    "arabicnumber": "1509.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3797,
+    "arabicnumber": "1509.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3798,
+    "arabicnumber": "1509.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3799,
+    "arabicnumber": "1510.01",
+    "text": "Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Ребёнок не сможет отплатить своему родителю сполна, если только не найдёт его (чьим-нибудь) невольником, после чего выкупит и освободит его»",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3800,
+    "arabicnumber": "1510.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 20,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3801,
+    "arabicnumber": "1511.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3802,
+    "arabicnumber": "1511.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3803,
+    "arabicnumber": "1511.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3804,
+    "arabicnumber": "1511.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3805,
+    "arabicnumber": "1511.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3806,
+    "arabicnumber": "1512.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3807,
+    "arabicnumber": "1512.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3808,
+    "arabicnumber": "1513",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3809,
+    "arabicnumber": "1514.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3810,
+    "arabicnumber": "1514.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3811,
+    "arabicnumber": "1412.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3812,
+    "arabicnumber": "1412.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3813,
+    "arabicnumber": "1515.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3814,
+    "arabicnumber": "1515.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3815,
+    "arabicnumber": "1515.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3816,
+    "arabicnumber": "1515.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3817,
+    "arabicnumber": "1515.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3818,
+    "arabicnumber": "1516",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3819,
+    "arabicnumber": "1517.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3820,
+    "arabicnumber": "1517.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3821,
+    "arabicnumber": "1518",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3822,
+    "arabicnumber": "1519.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3823,
+    "arabicnumber": "1519.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3824,
+    "arabicnumber": "1520",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3825,
+    "arabicnumber": "1521",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3826,
+    "arabicnumber": "1522.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3827,
+    "arabicnumber": "1522.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3828,
+    "arabicnumber": "1523.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3829,
+    "arabicnumber": "1523.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3830,
+    "arabicnumber": "1524.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3831,
+    "arabicnumber": "1524.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 31
+    }
+  },
+  {
+    "hadithnumber": 3832,
+    "arabicnumber": "1524.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 32
+    }
+  },
+  {
+    "hadithnumber": 3833,
+    "arabicnumber": "1524.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 33
+    }
+  },
+  {
+    "hadithnumber": 3834,
+    "arabicnumber": "1524.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 34
+    }
+  },
+  {
+    "hadithnumber": 3835,
+    "arabicnumber": "1524.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 35
+    }
+  },
+  {
+    "hadithnumber": 3836,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3837,
+    "arabicnumber": "1525.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 36
+    }
+  },
+  {
+    "hadithnumber": 3838,
+    "arabicnumber": "1525.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 37
+    }
+  },
+  {
+    "hadithnumber": 3839,
+    "arabicnumber": "1525.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 38
+    }
+  },
+  {
+    "hadithnumber": 3840,
+    "arabicnumber": "1526.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 40
+    }
+  },
+  {
+    "hadithnumber": 3841,
+    "arabicnumber": "1527.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 41
+    }
+  },
+  {
+    "hadithnumber": 3842,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3843,
+    "arabicnumber": "1526.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 43
+    }
+  },
+  {
+    "hadithnumber": 3844,
+    "arabicnumber": "1526.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 44
+    }
+  },
+  {
+    "hadithnumber": 3845,
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 0,
+      "hadith": 0
+    }
+  },
+  {
+    "hadithnumber": 3846,
+    "arabicnumber": "1527.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 42
+    }
+  },
+  {
+    "hadithnumber": 3847,
+    "arabicnumber": "1527.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 46
+    }
+  },
+  {
+    "hadithnumber": 3848,
+    "arabicnumber": "1528.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 47
+    }
+  },
+  {
+    "hadithnumber": 3849,
+    "arabicnumber": "1528.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 48
+    }
+  },
+  {
+    "hadithnumber": 3850,
+    "arabicnumber": "1529",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 49
+    }
+  },
+  {
+    "hadithnumber": 3851,
+    "arabicnumber": "1530.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 50
+    }
+  },
+  {
+    "hadithnumber": 3852,
+    "arabicnumber": "1530.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 51
+    }
+  },
+  {
+    "hadithnumber": 3853,
+    "arabicnumber": "1531.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 52
+    }
+  },
+  {
+    "hadithnumber": 3854,
+    "arabicnumber": "1531.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 53
+    }
+  },
+  {
+    "hadithnumber": 3855,
+    "arabicnumber": "1531.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 54
+    }
+  },
+  {
+    "hadithnumber": 3856,
+    "arabicnumber": "1531.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 55
+    }
+  },
+  {
+    "hadithnumber": 3857,
+    "arabicnumber": "1531.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 56
+    }
+  },
+  {
+    "hadithnumber": 3858,
+    "arabicnumber": "1532.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 57
+    }
+  },
+  {
+    "hadithnumber": 3859,
+    "arabicnumber": "1532.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 58
+    }
+  },
+  {
+    "hadithnumber": 3860,
+    "arabicnumber": "1533.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 59
+    }
+  },
+  {
+    "hadithnumber": 3861,
+    "arabicnumber": "1533.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 60
+    }
+  },
+  {
+    "hadithnumber": 3862,
+    "arabicnumber": "1534.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 61
+    }
+  },
+  {
+    "hadithnumber": 3863,
+    "arabicnumber": "1534.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 62
+    }
+  },
+  {
+    "hadithnumber": 3864,
+    "arabicnumber": "1535",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 63
+    }
+  },
+  {
+    "hadithnumber": 3865,
+    "arabicnumber": "1534.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 64
+    }
+  },
+  {
+    "hadithnumber": 3866,
+    "arabicnumber": "1534.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 65
+    }
+  },
+  {
+    "hadithnumber": 3867,
+    "arabicnumber": "1534.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 66
+    }
+  },
+  {
+    "hadithnumber": 3868,
+    "arabicnumber": "1534.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 67
+    }
+  },
+  {
+    "hadithnumber": 3869,
+    "arabicnumber": "1534.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 68
+    }
+  },
+  {
+    "hadithnumber": 3870,
+    "arabicnumber": "1534.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 69
+    }
+  },
+  {
+    "hadithnumber": 3871,
+    "arabicnumber": "1536.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 70
+    }
+  },
+  {
+    "hadithnumber": 3872,
+    "arabicnumber": "1536.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 71
+    }
+  },
+  {
+    "hadithnumber": 3873,
+    "arabicnumber": "1537",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 72
+    }
+  },
+  {
+    "hadithnumber": 3874,
+    "arabicnumber": "1538.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 73
+    }
+  },
+  {
+    "hadithnumber": 3875,
+    "arabicnumber": "1534.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 74
+    }
+  },
+  {
+    "hadithnumber": 3876,
+    "arabicnumber": "1539.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 75
+    }
+  },
+  {
+    "hadithnumber": 3877,
+    "arabicnumber": "1538.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 76
+    }
+  },
+  {
+    "hadithnumber": 3878,
+    "arabicnumber": "1539.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 77
+    }
+  },
+  {
+    "hadithnumber": 3879,
+    "arabicnumber": "1539.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 78
+    }
+  },
+  {
+    "hadithnumber": 3880,
+    "arabicnumber": "1539.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 79
+    }
+  },
+  {
+    "hadithnumber": 3881,
+    "arabicnumber": "1539.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 80
+    }
+  },
+  {
+    "hadithnumber": 3882,
+    "arabicnumber": "1539.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 81
+    }
+  },
+  {
+    "hadithnumber": 3883,
+    "arabicnumber": "1539.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 82
+    }
+  },
+  {
+    "hadithnumber": 3884,
+    "arabicnumber": "1539.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 83
+    }
+  },
+  {
+    "hadithnumber": 3885,
+    "arabicnumber": "1539.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 84
+    }
+  },
+  {
+    "hadithnumber": 3886,
+    "arabicnumber": "1539.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 85
+    }
+  },
+  {
+    "hadithnumber": 3887,
+    "arabicnumber": "1540.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 86
+    }
+  },
+  {
+    "hadithnumber": 3888,
+    "arabicnumber": "1540.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 87
+    }
+  },
+  {
+    "hadithnumber": 3889,
+    "arabicnumber": "1540.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 88
+    }
+  },
+  {
+    "hadithnumber": 3890,
+    "arabicnumber": "1540.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 89
+    }
+  },
+  {
+    "hadithnumber": 3891,
+    "arabicnumber": "1540.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 90
+    }
+  },
+  {
+    "hadithnumber": 3892,
+    "arabicnumber": "1541",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 91
+    }
+  },
+  {
+    "hadithnumber": 3893,
+    "arabicnumber": "1542.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 92
+    }
+  },
+  {
+    "hadithnumber": 3894,
+    "arabicnumber": "1542.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 93
+    }
+  },
+  {
+    "hadithnumber": 3895,
+    "arabicnumber": "1542.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 94
+    }
+  },
+  {
+    "hadithnumber": 3896,
+    "arabicnumber": "1542.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 95
+    }
+  },
+  {
+    "hadithnumber": 3897,
+    "arabicnumber": "1542.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 96
+    }
+  },
+  {
+    "hadithnumber": 3898,
+    "arabicnumber": "1542.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 97
+    }
+  },
+  {
+    "hadithnumber": 3899,
+    "arabicnumber": "1542.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 98
+    }
+  },
+  {
+    "hadithnumber": 3900,
+    "arabicnumber": "1542.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 99
+    }
+  },
+  {
+    "hadithnumber": 3901,
+    "arabicnumber": "1543.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 100
+    }
+  },
+  {
+    "hadithnumber": 3902,
+    "arabicnumber": "1543.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 101
+    }
+  },
+  {
+    "hadithnumber": 3903,
+    "arabicnumber": "1543.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 102
+    }
+  },
+  {
+    "hadithnumber": 3904,
+    "arabicnumber": "1543.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 103
+    }
+  },
+  {
+    "hadithnumber": 3905,
+    "arabicnumber": "1543.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 104
+    }
+  },
+  {
+    "hadithnumber": 3906,
+    "arabicnumber": "1543.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 105
+    }
+  },
+  {
+    "hadithnumber": 3907,
+    "arabicnumber": "1543.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 106
+    }
+  },
+  {
+    "hadithnumber": 3908,
+    "arabicnumber": "1536.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 107
+    }
+  },
+  {
+    "hadithnumber": 3909,
+    "arabicnumber": "1536.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 108
+    }
+  },
+  {
+    "hadithnumber": 3910,
+    "arabicnumber": "1536.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 109
+    }
+  },
+  {
+    "hadithnumber": 3911,
+    "arabicnumber": "1536.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 110
+    }
+  },
+  {
+    "hadithnumber": 3912,
+    "arabicnumber": "1536.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 111
+    }
+  },
+  {
+    "hadithnumber": 3913,
+    "arabicnumber": "1536.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 112
+    }
+  },
+  {
+    "hadithnumber": 3914,
+    "arabicnumber": "1536.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 113
+    }
+  },
+  {
+    "hadithnumber": 3915,
+    "arabicnumber": "1536.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 114
+    }
+  },
+  {
+    "hadithnumber": 3916,
+    "arabicnumber": "1536.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 115
+    }
+  },
+  {
+    "hadithnumber": 3917,
+    "arabicnumber": "1536.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 116
+    }
+  },
+  {
+    "hadithnumber": 3918,
+    "arabicnumber": "1536.13",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 117
+    }
+  },
+  {
+    "hadithnumber": 3919,
+    "arabicnumber": "1536.14",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 118
+    }
+  },
+  {
+    "hadithnumber": 3920,
+    "arabicnumber": "1536.15",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 119
+    }
+  },
+  {
+    "hadithnumber": 3921,
+    "arabicnumber": "1536.16",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 120
+    }
+  },
+  {
+    "hadithnumber": 3922,
+    "arabicnumber": "1536.17",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 121
+    }
+  },
+  {
+    "hadithnumber": 3923,
+    "arabicnumber": "1536.18",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 122
+    }
+  },
+  {
+    "hadithnumber": 3924,
+    "arabicnumber": "1536.19",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 123
+    }
+  },
+  {
+    "hadithnumber": 3925,
+    "arabicnumber": "1536.20",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 124
+    }
+  },
+  {
+    "hadithnumber": 3926,
+    "arabicnumber": "1536.21",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 125
+    }
+  },
+  {
+    "hadithnumber": 3927,
+    "arabicnumber": "1536.22",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 126
+    }
+  },
+  {
+    "hadithnumber": 3928,
+    "arabicnumber": "1536.23",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 127
+    }
+  },
+  {
+    "hadithnumber": 3929,
+    "arabicnumber": "1536.24",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 128
+    }
+  },
+  {
+    "hadithnumber": 3930,
+    "arabicnumber": "1536.25",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 129
+    }
+  },
+  {
+    "hadithnumber": 3931,
+    "arabicnumber": "1544",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 130
+    }
+  },
+  {
+    "hadithnumber": 3932,
+    "arabicnumber": "1536.26",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 131
+    }
+  },
+  {
+    "hadithnumber": 3933,
+    "arabicnumber": "1545",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 132
+    }
+  },
+  {
+    "hadithnumber": 3934,
+    "arabicnumber": "1546",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 133
+    }
+  },
+  {
+    "hadithnumber": 3935,
+    "arabicnumber": "1547.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 134
+    }
+  },
+  {
+    "hadithnumber": 3936,
+    "arabicnumber": "1547.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 135
+    }
+  },
+  {
+    "hadithnumber": 3937,
+    "arabicnumber": "1547.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 136
+    }
+  },
+  {
+    "hadithnumber": 3938,
+    "arabicnumber": "1547.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 137
+    }
+  },
+  {
+    "hadithnumber": 3939,
+    "arabicnumber": "1547.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 138
+    }
+  },
+  {
+    "hadithnumber": 3940,
+    "arabicnumber": "1547.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 139
+    }
+  },
+  {
+    "hadithnumber": 3941,
+    "arabicnumber": "1547.07",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 140
+    }
+  },
+  {
+    "hadithnumber": 3942,
+    "arabicnumber": "1547.08",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 141
+    }
+  },
+  {
+    "hadithnumber": 3943,
+    "arabicnumber": "1547.09",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 142
+    }
+  },
+  {
+    "hadithnumber": 3944,
+    "arabicnumber": "1547.10",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 143
+    }
+  },
+  {
+    "hadithnumber": 3945,
+    "arabicnumber": "1548.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 144
+    }
+  },
+  {
+    "hadithnumber": 3946,
+    "arabicnumber": "1548.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 145
+    }
+  },
+  {
+    "hadithnumber": 3947,
+    "arabicnumber": "1548.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 146
+    }
+  },
+  {
+    "hadithnumber": 3948,
+    "arabicnumber": "1548.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 147
+    }
+  },
+  {
+    "hadithnumber": 3949,
+    "arabicnumber": "1548.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 148
+    }
+  },
+  {
+    "hadithnumber": 3950,
+    "arabicnumber": "1548.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 149
+    }
+  },
+  {
+    "hadithnumber": 3951,
+    "arabicnumber": "1547.11",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 150
+    }
+  },
+  {
+    "hadithnumber": 3952,
+    "arabicnumber": "1547.12",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 151
+    }
+  },
+  {
+    "hadithnumber": 3953,
+    "arabicnumber": "1547.13",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 152
+    }
+  },
+  {
+    "hadithnumber": 3954,
+    "arabicnumber": "1547.14",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 153
+    }
+  },
+  {
+    "hadithnumber": 3955,
+    "arabicnumber": "1549.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 154
+    }
+  },
+  {
+    "hadithnumber": 3956,
+    "arabicnumber": "1549.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 155
+    }
+  },
+  {
+    "hadithnumber": 3957,
+    "arabicnumber": "1550.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 156
+    }
+  },
+  {
+    "hadithnumber": 3958,
+    "arabicnumber": "1550.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 157
+    }
+  },
+  {
+    "hadithnumber": 3959,
+    "arabicnumber": "1550.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 158
+    }
+  },
+  {
+    "hadithnumber": 3960,
+    "arabicnumber": "1550.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 159
+    }
+  },
+  {
+    "hadithnumber": 3961,
+    "arabicnumber": "1550.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 21,
+      "hadith": 160
+    }
+  },
+  {
+    "hadithnumber": 3962,
+    "arabicnumber": "1551.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 1
+    }
+  },
+  {
+    "hadithnumber": 3963,
+    "arabicnumber": "1551.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 2
+    }
+  },
+  {
+    "hadithnumber": 3964,
+    "arabicnumber": "1551.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 3
+    }
+  },
+  {
+    "hadithnumber": 3965,
+    "arabicnumber": "1551.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 4
+    }
+  },
+  {
+    "hadithnumber": 3966,
+    "arabicnumber": "1551.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 5
+    }
+  },
+  {
+    "hadithnumber": 3967,
+    "arabicnumber": "1551.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 6
+    }
+  },
+  {
+    "hadithnumber": 3968,
+    "arabicnumber": "1552.01",
+    "text": "Сообщается, что Джабир (да будет доволен им Аллах) сказал: «Посланник Аллаха ﷺ сказал: “Если мусульманин посадит дерево, то всё то, что будет съедено с него, обязательно (зачтётся) ему как садакъа/милостыня/, и всё, что будет украдено с него, зачтётся ему как садакъа, и все, что съедят с него звери, зачтётся ему как садакъа, и все, что съедят с него птицы, зачтётся ему как садакъа, и если кто-нибудь нанесёт ему урон, это обязательно зачтётся ему как садакъа”»",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 7
+    }
+  },
+  {
+    "hadithnumber": 3969,
+    "arabicnumber": "1552.02",
+    "text": "Передают со слов Джабира о том, что (однажды) Пророк ﷺ зашёл в пальмовый сад принадлежавший Умм Мубашшир аль-Ансари и Пророк ﷺ спросил её: «Кто посадил эти пальмы мусульманин или неверный?» Она ответила: «Нет, мусульманин!» Тогда он сказал: «Если мусульманин посадит дерево или засеет поле, а потом (выросшее) поест человек, животное или кто-нибудь ещё, это обязательно зачтётся ему как садакъа»",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 8
+    }
+  },
+  {
+    "hadithnumber": 3970,
+    "arabicnumber": "1552.03",
+    "text": "Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен им Аллах, сказал: «Я слышал, как Посланник Аллаха ﷺ говорил: “Если мусульманин посадит дерево или засеет поле, а потом (выросшее) поест зверь, птица или кто-нибудь ещё, то он обязательно получит за это вознаграждение”»",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 9
+    }
+  },
+  {
+    "hadithnumber": 3971,
+    "arabicnumber": "1552.04",
+    "text": "Передают со слов ‘Амра ибн Динара о том ,что он слышал, как Джабир ибн ‘Абдуллах говорил: «(Однажды) Пророк ﷺ зашёл в сад принадлежавший Умм Ма‘бад и сказал: “О Умм Ма‘бад, кто посадил эти пальмы мусульманин или неверный?” Она ответила: “Нет, мусульманин!” Тогда он сказал: “Если мусульманин посадит дерево, а потом (выросшее) от него поест человек, животное или птица, это обязательно зачтётся ему как садакъа до Дня воскрешения”»",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 10
+    }
+  },
+  {
+    "hadithnumber": 3972,
+    "arabicnumber": "1552.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 11
+    }
+  },
+  {
+    "hadithnumber": 3973,
+    "arabicnumber": "1553.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 12
+    }
+  },
+  {
+    "hadithnumber": 3974,
+    "arabicnumber": "1553.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 13
+    }
+  },
+  {
+    "hadithnumber": 3975,
+    "arabicnumber": "1554.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 14
+    }
+  },
+  {
+    "hadithnumber": 3976,
+    "arabicnumber": "1554.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 15
+    }
+  },
+  {
+    "hadithnumber": 3977,
+    "arabicnumber": "1555.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 16
+    }
+  },
+  {
+    "hadithnumber": 3978,
+    "arabicnumber": "1555.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 17
+    }
+  },
+  {
+    "hadithnumber": 3979,
+    "arabicnumber": "1555.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 18
+    }
+  },
+  {
+    "hadithnumber": 3980,
+    "arabicnumber": "1554.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 19
+    }
+  },
+  {
+    "hadithnumber": 3981,
+    "arabicnumber": "1556.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 20
+    }
+  },
+  {
+    "hadithnumber": 3982,
+    "arabicnumber": "1556.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 21
+    }
+  },
+  {
+    "hadithnumber": 3983,
+    "arabicnumber": "1557",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 22
+    }
+  },
+  {
+    "hadithnumber": 3984,
+    "arabicnumber": "1558.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 23
+    }
+  },
+  {
+    "hadithnumber": 3985,
+    "arabicnumber": "1558.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 24
+    }
+  },
+  {
+    "hadithnumber": 3986,
+    "arabicnumber": "1558.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 25
+    }
+  },
+  {
+    "hadithnumber": 3987,
+    "arabicnumber": "1559.01",
+    "text": "Абу Хурайра, да будет доволен им Аллах, рассказывал: «Посланник Аллаха ﷺ сказал» или же он сказал: «Я слышал, как Пророк ﷺ говорил: “Тот, кто застал свое имущество в том виде, в котором он отдал его, у человека, ставшего банкротом [и не раздавшего это имущество], имеет больше прав на него [свое имущество] нежели кто-либо другой”»",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 26
+    }
+  },
+  {
+    "hadithnumber": 3988,
+    "arabicnumber": "1559.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 27
+    }
+  },
+  {
+    "hadithnumber": 3989,
+    "arabicnumber": "1559.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 28
+    }
+  },
+  {
+    "hadithnumber": 3990,
+    "arabicnumber": "1559.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 29
+    }
+  },
+  {
+    "hadithnumber": 3991,
+    "arabicnumber": "1559.05",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 30
+    }
+  },
+  {
+    "hadithnumber": 3992,
+    "arabicnumber": "1559.06",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 31
+    }
+  },
+  {
+    "hadithnumber": 3993,
+    "arabicnumber": "1560.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 32
+    }
+  },
+  {
+    "hadithnumber": 3994,
+    "arabicnumber": "1560.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 33
+    }
+  },
+  {
+    "hadithnumber": 3995,
+    "arabicnumber": "1560.03",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 34
+    }
+  },
+  {
+    "hadithnumber": 3996,
+    "arabicnumber": "1560.04",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 35
+    }
+  },
+  {
+    "hadithnumber": 3997,
+    "arabicnumber": "1561",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 36
+    }
+  },
+  {
+    "hadithnumber": 3998,
+    "arabicnumber": "1562.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 37
+    }
+  },
+  {
+    "hadithnumber": 3999,
+    "arabicnumber": "1562.02",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 38
+    }
+  },
+  {
+    "hadithnumber": 4000,
+    "arabicnumber": "1563.01",
+    "text": "",
+    "grades": [],
+    "reference": {
+      "book": 22,
+      "hadith": 39
+    }
+  }
+]
